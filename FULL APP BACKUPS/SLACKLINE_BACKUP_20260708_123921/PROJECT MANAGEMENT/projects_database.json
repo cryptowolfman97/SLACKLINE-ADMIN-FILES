@@ -1,0 +1,339 @@
+[
+  {
+    "id": "5d15018f-5b56-450b-8868-6fe490840cf5",
+    "subProjects": [
+      {
+        "id": "6f6b74d0-1598-4b0c-ae33-0eda3d248a0e",
+        "tasks": [
+          {
+            "endDate": "2026-06-07",
+            "id": "87b95734-cdc3-4c48-8d3b-e20a1ae4495a",
+            "notes": "• Agent available again at 4.30am\n[x] Full code for Projectmanagement and mainactivity needed!",
+            "startDate": "2026-06-06",
+            "statusIdentifier": "done",
+            "timeline": "Jun 06, 2026 → Jun 07, 2026",
+            "title": "Gemini - SLACKLINE Notifications for Project Management and Calendar modules"
+          },
+          {
+            "endDate": "2026-06-08",
+            "id": "93352296-6e60-4973-9bcb-a75598ea6782",
+            "notes": "• Availability at 4.30am\n[x] Addition of Store Admin as a module to SLACKLINE\n• Available at 2pm again\n[x] Build errors rectifying for SLACKLINE app",
+            "startDate": "2026-06-06",
+            "statusIdentifier": "done",
+            "timeline": "Jun 06, 2026 → Jun 08, 2026",
+            "title": "Claude - sachithtruecaller:\nStandalone Store Project"
+          },
+          {
+            "endDate": "2026-06-08",
+            "id": "ad9fb7f1-b025-4d04-919b-46290b04a3bc",
+            "notes": "• Agent available again at 7.30am\n[x] Store pull to refresh update and the new visual settings addition with accent colours etc..\n• Agent available again at 1pm \n[x] Finalizing the UI improvements for Store v7.1...\n[x] With all the improvements Store is now at v8.0",
+            "startDate": "2026-06-06",
+            "statusIdentifier": "done",
+            "timeline": "Jun 06, 2026 → Jun 08, 2026",
+            "title": "Claude - ceo.shvertex@gmail.com"
+          }
+        ],
+        "title": "Jun 6"
+      },
+      {
+        "id": "b58da8ab-1566-4384-958b-98becda72ba3",
+        "tasks": [
+          {
+            "endDate": "2026-06-11",
+            "id": "9ebe7064-19d0-4d4b-874a-c61ecfbd4057",
+            "notes": "• Agent available again at 8am (jun 11)\n[x] Finalize the Supa Admin application for both standalone and SLACKLINE version\n• Agant available again at 05.30am (jun 12)\n[x] SupaAdmin App finalization by enforcing the pin...\n[x] Files ready and placed. Do the build...",
+            "startDate": "2026-06-11",
+            "statusIdentifier": "done",
+            "timeline": "Jun 11, 2026 → Jun 11, 2026",
+            "title": "Claude - cryptowolfman97@gmail.com"
+          },
+          {
+            "endDate": "2026-06-11",
+            "id": "0c0ef4fa-f69a-49c8-8244-6dcf663ff48c",
+            "notes": "• Agent available again at 8.30am (jun 11)\n[x] Vantage app custom license gate implementation\n• Agent available again at 1.00am (jun 12)\n[x] Final UI polish for both SLACKLINE license gate injector and Vantage custom license gate...",
+            "startDate": "2026-06-11",
+            "statusIdentifier": "done",
+            "timeline": "Jun 11, 2026 → Jun 11, 2026",
+            "title": "Claude - ceo.shvertex@gmail.com"
+          },
+          {
+            "endDate": "2026-06-12",
+            "id": "7751603e-459f-476a-a2d2-d928b71b727a",
+            "notes": "• Agent available at 9pm again (jun 11)\n[x] Redesigning the SLACKLINE invoicing module",
+            "startDate": "2026-06-11",
+            "statusIdentifier": "done",
+            "timeline": "Jun 11, 2026 → Jun 12, 2026",
+            "title": "Claude - shhirimuthugoda@gmail.com"
+          },
+          {
+            "endDate": "2026-06-13",
+            "id": "21c97d9b-58f4-47e2-9152-92e4a1d481e6",
+            "notes": "• Agent available again at 11PM (jun 11)\n[x] Consulting wizard application to the SHV Store - Done",
+            "startDate": "2026-06-11",
+            "statusIdentifier": "done",
+            "timeline": "Jun 11, 2026 → Jun 13, 2026",
+            "title": "Claude - sachithtruecaller@gmail.com"
+          }
+        ],
+        "title": "Jun 11"
+      },
+      {
+        "id": "eb06c37c-1f51-478a-a7f9-99dc63715ff1",
+        "tasks": [
+          {
+            "endDate": "2026-06-15",
+            "id": "abee530d-4399-48e3-a893-b468453a0ad5",
+            "notes": "• Claude - sachhesh1997rox@gmail.com \n• Available again at 11.30pm (jun 12)\n[x] Phase 1 files pending",
+            "startDate": "2026-06-12",
+            "statusIdentifier": "done",
+            "timeline": "Jun 12, 2026 → Jun 15, 2026",
+            "title": "Office Suite App rebuild"
+          },
+          {
+            "endDate": "2026-06-14",
+            "id": "10f2a1e6-db55-4d8c-8b46-e7e1f335198d",
+            "notes": "• Claude - shhirimuthugoda@gmail.com available again at 11.30pm (jun 12)\n[x] Done",
+            "startDate": "2026-06-12",
+            "statusIdentifier": "done",
+            "timeline": "Jun 12, 2026 → Jun 14, 2026",
+            "title": "Removing the license gate for Legacy Universal Convertor "
+          }
+        ],
+        "title": "Jun 12"
+      },
+      {
+        "id": "ba3f6e8c-6d7e-4e89-9fbe-241c7e4de3d8",
+        "tasks": [
+          {
+            "endDate": "2026-06-16",
+            "id": "b85a9cdb-d158-4630-921d-042edaadd7ee",
+            "notes": "• Claude - sachhesh1997rox@gmail.com - available again at 6.30pm (jun15)\n[x] Done\n• Claude - cryptowolfman97@gmail.com - available again at 12.30am (jun16)\n[x] Done",
+            "startDate": "2026-06-15",
+            "statusIdentifier": "done",
+            "timeline": "Jun 15, 2026 → Jun 16, 2026",
+            "title": "Finalizing Universal Calculator app without licensing gate"
+          },
+          {
+            "endDate": "2026-06-19",
+            "id": "2c415925-c682-465b-93dd-7293ec0ec57b",
+            "notes": "• Claude - shhirimuthugoda@gmail.com - again available at 5.10am (jun16)\n[x] Upgrade - Phase 1 ✅ (UI)",
+            "startDate": "2026-06-15",
+            "statusIdentifier": "done",
+            "timeline": "Jun 15, 2026 → Jun 19, 2026",
+            "title": "SHV OFFICE pro - upgrades"
+          }
+        ],
+        "title": "Jun 15"
+      },
+      {
+        "id": "b872f4f4-f3b3-4f12-96ae-d4aaa4ae0099",
+        "tasks": [
+          {
+            "endDate": "2026-06-26",
+            "id": "0223de0b-00ae-4e43-88b0-ed306c5a05d0",
+            "notes": "• Claude - shhirimuthugoda@gmail.com - again available at 11.30pm (jun25)\n[x] Upgrade - Phase 1 - Done\n[x] Upgrade - Phase 2 - Done",
+            "startDate": "2026-06-24",
+            "statusIdentifier": "done",
+            "timeline": "Jun 24, 2026 → Jun 26, 2026",
+            "title": "SHV OFFICE SUITE PRO - Upgrades - PDF Editor"
+          }
+        ],
+        "title": "Jun 24"
+      },
+      {
+        "id": "f5208cdf-4e89-41a5-b366-3eefe047ba0d",
+        "tasks": [
+          {
+            "endDate": "2026-06-28",
+            "id": "a2133a5c-41be-4017-86bb-25ba8c01bfc7",
+            "notes": "• Claude - sachithtruecaller@gmail.com available again at 12.30am (Jun27)",
+            "startDate": "2026-06-26",
+            "statusIdentifier": "done",
+            "timeline": "Jun 26, 2026 → Jun 28, 2026",
+            "title": "SupaAdmin app upgrade"
+          },
+          {
+            "endDate": "2026-06-28",
+            "id": "9983032c-610f-4105-88a9-eb91d28efdca",
+            "notes": "• Claude - acctrials2020@gmail.com - available again at 4.30pm (Jun26)",
+            "startDate": "2026-06-26",
+            "statusIdentifier": "done",
+            "timeline": "Jun 26, 2026 → Jun 28, 2026",
+            "title": "Universal Downloader app final upgrade "
+          },
+          {
+            "endDate": "2026-06-27",
+            "id": "ae4bfa6d-f75c-4b36-bc1d-75ad7521c3f6",
+            "notes": "• Claude - cryptowolfman97@gmail.com - available again at 1am (Jun27)",
+            "startDate": "2026-06-26",
+            "statusIdentifier": "done",
+            "timeline": "Jun 26, 2026 → Jun 27, 2026",
+            "title": "SHV STORE custom apps order feature addition"
+          },
+          {
+            "endDate": "2026-06-28",
+            "id": "e7128d7e-c6cb-4844-8804-22d9353bf5f5",
+            "notes": "• Claude - sachithtruecaller@gmail.com - available again at 5.30am (jun27)",
+            "startDate": "2026-06-27",
+            "statusIdentifier": "done",
+            "timeline": "Jun 27, 2026 → Jun 28, 2026",
+            "title": "New Supabase Module addition to SLACKLINE"
+          }
+        ],
+        "title": "Jun 26"
+      }
+    ],
+    "tasks": [],
+    "title": "AI AGENT ALLOCATIONS"
+  },
+  {
+    "id": "985e8751-5eb5-4285-9e86-73234cb85626",
+    "subProjects": [
+      {
+        "id": "ba439f1d-a1a7-4396-81fb-52d1b9ee8f74",
+        "tasks": [
+          {
+            "endDate": "2026-06-10",
+            "id": "f9fd4d75-5b9e-4f6b-9fde-355b533d851d",
+            "notes": "• Claude - ceo.shvertex@gmail.com available again at 1am Jun 8...\n[x] Done",
+            "startDate": "2026-06-07",
+            "statusIdentifier": "done",
+            "timeline": "Jun 07, 2026 → Jun 10, 2026",
+            "title": "Final License Gate upgrade"
+          },
+          {
+            "endDate": "2026-07-04",
+            "id": "cb04af57-b305-4445-b539-ea9f1c373b29",
+            "notes": "",
+            "startDate": "2026-06-30",
+            "statusIdentifier": "done",
+            "timeline": "Jun 30, 2026 → Jul 04, 2026",
+            "title": "To the Vantage App license gate, for payment options need copy buttons, specially for crypto addresses but need for bank details section too"
+          },
+          {
+            "endDate": "2026-07-04",
+            "id": "93fcac6c-ff66-4aea-81d5-1a795c342805",
+            "notes": "",
+            "startDate": "2026-06-28",
+            "statusIdentifier": "done",
+            "timeline": "Jun 28, 2026 → Jul 04, 2026",
+            "title": "In the license gate payment methods should be handled via supabase calls. This should be implemented because that way it\u0027s easier to change details for everything without rebuilding apps all the time when a payment method detail is changed"
+          },
+          {
+            "endDate": "2026-07-09",
+            "id": "c5af8436-a76e-450c-a411-b96ac69dbcab",
+            "notes": "• Claude - shhirimuthugoda@gmail.com and cryptowolfman97@gmail.com - available again at 4am (8Jul)\n[x] Done",
+            "startDate": "2026-07-07",
+            "statusIdentifier": "done",
+            "timeline": "Jul 07, 2026 → Jul 09, 2026",
+            "title": "Kotlin License Gate Injector Finalization"
+          }
+        ],
+        "title": "KOTLIN LICENSE GATE"
+      },
+      {
+        "id": "41bd15f6-b6c8-4212-b7c5-8494d0313b43",
+        "tasks": [
+          {
+            "endDate": "2026-07-09",
+            "id": "a843e37b-c5d2-46a5-8fd9-3d219b6935f4",
+            "notes": "",
+            "startDate": "2026-07-08",
+            "statusIdentifier": "in_progress",
+            "timeline": "Jul 08, 2026 → Jul 09, 2026",
+            "title": "Claude - sachith.h97 available again at 4.30pm (Jul8)"
+          }
+        ],
+        "title": "Full App Backup Option"
+      }
+    ],
+    "tasks": [],
+    "title": "SLACKLINE UPGRADES"
+  },
+  {
+    "id": "1943af32-301a-4043-88bb-ef341d2f0e19",
+    "subProjects": [
+      {
+        "id": "01a7f5be-6546-4377-a854-58935a7e5d71",
+        "tasks": [
+          {
+            "endDate": "2026-06-12",
+            "id": "6a3bd2c0-c4ef-46f7-bff6-a3f9625cc225",
+            "notes": "• Agent available again at 12.30am (jun 13)\n[x] UI update complete",
+            "startDate": "2026-06-11",
+            "statusIdentifier": "done",
+            "timeline": "Jun 11, 2026 → Jun 12, 2026",
+            "title": "Major UI update...\nClaude - acctrials2020@gmail.com"
+          }
+        ],
+        "title": "JUN 2026"
+      }
+    ],
+    "tasks": [],
+    "title": "WEBSITE REDESIGN"
+  },
+  {
+    "id": "d01c1f7d-4e77-466e-868c-f6a9391eefe4",
+    "subProjects": [
+      {
+        "id": "7612a254-3a3d-42ea-8581-3ba823c0c149",
+        "tasks": [
+          {
+            "endDate": "2026-06-15",
+            "id": "0d826582-effb-4181-815e-941bb9b1c493",
+            "notes": "• Process started with Claude - sachhesh1997rox@gmail.com, then went to Claude - cryptowolfman97@gmail.com, now it\u0027s with Claude - sachithtruecaller@gmail.com...\n[x] Claude - sachithtruecaller@gmail.com available again at 6am (Jun 13)...",
+            "startDate": "2026-06-13",
+            "statusIdentifier": "done",
+            "timeline": "Jun 13, 2026 → Jun 15, 2026",
+            "title": "Current Status..."
+          },
+          {
+            "endDate": "2026-06-20",
+            "id": "9815e416-34e3-4e08-a3d1-cf4e0fa20088",
+            "notes": "• Claude - sachhesh1997rox@gmail.com available again at 3pm (jun13)\n[x] Patches ✅",
+            "startDate": "2026-06-13",
+            "statusIdentifier": "done",
+            "timeline": "Jun 13, 2026 → Jun 20, 2026",
+            "title": "Patching Errors"
+          }
+        ],
+        "title": "Jun 13"
+      },
+      {
+        "id": "4c575724-2a85-4efd-abed-d31cadd69513",
+        "tasks": [
+          {
+            "endDate": "2026-06-28",
+            "id": "761450ce-f3cd-420d-93e6-db25e6692c7a",
+            "notes": "• Claude - shhirimuthugoda@gmail.com - available again at 2.30pm (jun26)",
+            "startDate": "2026-06-26",
+            "statusIdentifier": "in_progress",
+            "timeline": "Jun 26, 2026 → Jun 28, 2026",
+            "title": "Word, Excel, PPT Editor Addition + Debugging and testing"
+          },
+          {
+            "endDate": "2026-06-27",
+            "id": "fca2711b-33af-4cef-8d98-3e9d067f6470",
+            "notes": "• Claude - sachith.h97.... - available again at 03.30am (jun27)",
+            "startDate": "2026-06-26",
+            "statusIdentifier": "done",
+            "timeline": "Jun 26, 2026 → Jun 27, 2026",
+            "title": "PDF Signature Fixes"
+          },
+          {
+            "endDate": "2026-06-28",
+            "id": "2510d2d0-3ebe-46be-9aff-7918a30e4d74",
+            "notes": "• Claude - sachith.h97 - available again at 9am (jun27)\n• Files ready, build not done yet though...",
+            "startDate": "2026-06-27",
+            "statusIdentifier": "in_progress",
+            "timeline": "Jun 27, 2026 → Jun 28, 2026",
+            "title": "PDF Text Fonts addition"
+          }
+        ],
+        "title": "Jun 26"
+      }
+    ],
+    "tasks": [],
+    "title": "SHV OFFICE SUITE PRO - Rebuild"
+  }
+]
