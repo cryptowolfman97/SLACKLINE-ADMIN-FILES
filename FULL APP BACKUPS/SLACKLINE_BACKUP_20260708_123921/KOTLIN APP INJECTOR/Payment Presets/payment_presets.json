@@ -1,0 +1,32 @@
+[
+  {
+    "bankAccName": "Sachith Sanka",
+    "bankAccount": "200080074322",
+    "bankBranch": "Pettah 01 / Pettah - Main Street",
+    "bankName": "Nations Trust Bank - Sri Lanka",
+    "bankSwift": "NTBCLKLX",
+    "cryptoEth": "",
+    "cryptoLtc": "",
+    "cryptoUsdtBsc": "",
+    "cryptoUsdtPlasma": "",
+    "cryptoUsdtTrc": "",
+    "id": "ad45295e-dd4c-446b-a811-e74127b5c8b5",
+    "isDefault": false,
+    "name": "NTB MAIN (FriMi)"
+  },
+  {
+    "bankAccName": "",
+    "bankAccount": "",
+    "bankBranch": "",
+    "bankName": "",
+    "bankSwift": "",
+    "cryptoEth": "0x9c21d18a80da9a8caaff3f590ef6960edc2671fb",
+    "cryptoLtc": "LUmyxv1CYNEkJHXoh77ZDzN6wxKhCe8QgG",
+    "cryptoUsdtBsc": "0x9c21d18a80da9a8caaff3f590ef6960edc2671fb",
+    "cryptoUsdtPlasma": "0x9c21d18a80da9a8caaff3f590ef6960edc2671fb",
+    "cryptoUsdtTrc": "TBXiwbhm59cxmzw78CtPD9kgxShZ38WSFS",
+    "id": "52ed9f74-33db-46d6-aeff-b16aff6a8ba2",
+    "isDefault": false,
+    "name": "Crypto - Binance - cryptowolfman97@gmail.com"
+  }
+]
