@@ -1,0 +1,14 @@
+{
+  "agpVersion": "8.13.0",
+  "composeBom": "3",
+  "importedAt": "2026-07-14T00:38:34Z",
+  "isFavourite": false,
+  "kotlinVersion": ".",
+  "minSdk": "26",
+  "name": "SupaAdmin",
+  "packageName": "com.shvertex.supaadmin",
+  "targetSdk": "34",
+  "totalFiles": 68,
+  "totalLines": 8321,
+  "updatedAt": "2026-07-14T00:38:34Z"
+}
