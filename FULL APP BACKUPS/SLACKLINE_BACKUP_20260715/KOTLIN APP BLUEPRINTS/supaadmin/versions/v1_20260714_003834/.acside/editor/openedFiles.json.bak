@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/SupaAdmin/app/src/main/res/values/themes.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 350,
+          "line": 8
+        },
+        "start": {
+          "column": 0,
+          "index": 350,
+          "line": 8
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/SupaAdmin/app/src/main/res/values/themes.xml"
+}
