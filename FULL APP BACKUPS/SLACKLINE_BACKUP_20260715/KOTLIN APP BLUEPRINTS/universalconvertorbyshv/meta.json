@@ -1,0 +1,14 @@
+{
+  "agpVersion": "8.13.0",
+  "composeBom": "3",
+  "importedAt": "2026-07-14T00:38:43Z",
+  "isFavourite": false,
+  "kotlinVersion": ".",
+  "minSdk": "26",
+  "name": "UniversalConvertorbySHV",
+  "packageName": "com.shvertex.universalconv",
+  "targetSdk": "36",
+  "totalFiles": 89,
+  "totalLines": 5489,
+  "updatedAt": "2026-07-14T00:38:43Z"
+}
