@@ -1,0 +1,14 @@
+{
+  "agpVersion": "8.13.0",
+  "composeBom": "3",
+  "importedAt": "2026-07-14T00:38:08Z",
+  "isFavourite": false,
+  "kotlinVersion": ".",
+  "minSdk": "26",
+  "name": "InterstellarCalculator",
+  "packageName": "com.example.interstellarcalc",
+  "targetSdk": "34",
+  "totalFiles": 97,
+  "totalLines": 6359,
+  "updatedAt": "2026-07-14T00:38:08Z"
+}
