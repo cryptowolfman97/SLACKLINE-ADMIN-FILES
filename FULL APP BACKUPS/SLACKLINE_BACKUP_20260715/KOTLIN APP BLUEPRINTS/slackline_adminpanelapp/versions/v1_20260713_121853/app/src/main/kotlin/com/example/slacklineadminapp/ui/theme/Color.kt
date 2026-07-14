@@ -1,0 +1,26 @@
+package com.example.slacklineadminapp.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val BgBlack   = Color(0xFF000000)
+val CardBg    = Color(0xFF0D0D0D)
+val CardBg2   = Color(0xFF161616)
+val NavBg     = Color(0xFF0A0F16)
+val TextCol   = Color(0xFFB1BAD3)
+val SubText   = Color(0xFF8F9BB3)
+val GreenCol  = Color(0xFF1B9E46)
+val RedCol    = Color(0xFFD93838)
+val BlueCol   = Color(0xFF2B82BA)
+val PurpleCol = Color(0xFF82429E)
+val OrangeCol = Color(0xFFCC6A12)
+val TealCol   = Color(0xFF00A383)
+val YellowCol = Color(0xFFB39B00)
+val NavCol    = Color(0xFF8B8000)
+val PinkCol   = Color(0xFFC21774)
+val AmberCol  = Color(0xFFD98200)
+val CyanCol   = Color(0xFF0097AB)
+val LightBg   = Color(0xFFF4F5F7)
+val LightCard = Color(0xFFFFFFFF)
+val LightCard2= Color(0xFFE4E9F2)
+val LightText = Color(0xFF222B45)
+val LightNav  = Color(0xFFFFFFFF)
