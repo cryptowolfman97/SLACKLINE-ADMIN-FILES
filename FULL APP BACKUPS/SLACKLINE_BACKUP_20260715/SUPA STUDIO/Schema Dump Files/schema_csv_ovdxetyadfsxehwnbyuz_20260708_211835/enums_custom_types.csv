@@ -1,0 +1,13 @@
+schema,enum_name,values
+auth,aal_level,"aal1, aal2, aal3"
+auth,code_challenge_method,"s256, plain"
+auth,factor_status,"unverified, verified"
+auth,factor_type,"totp, webauthn, phone"
+auth,oauth_authorization_status,"pending, approved, denied, expired"
+auth,oauth_client_type,"public, confidential"
+auth,oauth_registration_type,"dynamic, manual"
+auth,oauth_response_type,code
+auth,one_time_token_type,"confirmation_token, reauthentication_token, recovery_token, email_change_token_new, email_change_token_current, phone_change_token"
+realtime,action,"INSERT, UPDATE, DELETE, TRUNCATE, ERROR"
+realtime,equality_op,"eq, neq, lt, lte, gt, gte, in, like, ilike, is, match, imatch, isdistinct"
+storage,buckettype,"STANDARD, ANALYTICS, VECTOR"
