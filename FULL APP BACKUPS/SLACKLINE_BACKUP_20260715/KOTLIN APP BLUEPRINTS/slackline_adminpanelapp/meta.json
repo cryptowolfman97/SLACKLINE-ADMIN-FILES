@@ -1,0 +1,14 @@
+{
+  "agpVersion": "8.13.0",
+  "composeBom": "3",
+  "importedAt": "2026-07-13T12:18:55Z",
+  "isFavourite": false,
+  "kotlinVersion": ".",
+  "minSdk": "26",
+  "name": "SlackLine_AdminPanelApp",
+  "packageName": "com.example.slacklineadminapp",
+  "targetSdk": "34",
+  "totalFiles": 160,
+  "totalLines": 39270,
+  "updatedAt": "2026-07-13T12:18:55Z"
+}
