@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/InterstellarCalculator/app/build.gradle.kts",
+      "selection": {
+        "end": {
+          "column": 38,
+          "index": 92,
+          "line": 2
+        },
+        "start": {
+          "column": 38,
+          "index": 92,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/InterstellarCalculator/app/src/main/kotlin/com/example/interstellarcalc/shvgate/LicenseGateScreen.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/InterstellarCalculator/app/src/main/kotlin/com/example/interstellarcalc/shvgate/LicenseGateScreen.kt"
+}
