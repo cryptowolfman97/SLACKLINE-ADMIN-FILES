@@ -1,0 +1,14 @@
+{
+  "agpVersion": "8.13.0",
+  "composeBom": "2024.06.00",
+  "importedAt": "2026-07-14T07:31:06Z",
+  "isFavourite": false,
+  "kotlinVersion": ".",
+  "minSdk": "24",
+  "name": "SnapLoader",
+  "packageName": "com.snaploader.app",
+  "targetSdk": "35",
+  "totalFiles": 102,
+  "totalLines": 8377,
+  "updatedAt": "2026-07-14T07:31:06Z"
+}
