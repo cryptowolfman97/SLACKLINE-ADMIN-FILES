@@ -1,7 +1,0 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <color name="ic_launcher_background">#1A1A1A</color>
-    <style name="Theme.ComposeEmptyActivity" parent="android:Theme.Material.NoActionBar">
-        <item name="android:windowBackground">#000000</item>
-        <item name="android:windowIsTranslucent">false</item>
-    </style>
-</resources>
