@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- AMOLED dark palette -->
+    <color name="amoled_black">#FF000000</color>
+    <color name="surface_card">#FF1A1A1A</color>
+    <color name="surface_card_2">#FF242424</color>
+    <color name="accent">#FF00E5CC</color>
+    <color name="accent_dark">#FF009980</color>
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#FF9E9E9E</color>
+    <!-- Light palette -->
+    <color name="light_background">#FFF5F5F5</color>
+    <color name="light_surface">#FFFFFFFF</color>
+    <color name="light_accent">#FF007A6E</color>
+    <color name="light_text_primary">#FF111111</color>
+    <color name="light_text_secondary">#FF666666</color>
+    <!-- Common -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="error">#FFCF6679</color>
+</resources>

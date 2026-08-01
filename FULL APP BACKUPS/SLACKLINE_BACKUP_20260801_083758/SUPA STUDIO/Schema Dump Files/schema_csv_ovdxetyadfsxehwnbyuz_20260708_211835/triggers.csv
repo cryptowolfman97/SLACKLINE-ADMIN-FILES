@@ -1,0 +1,13 @@
+trigger_schema,trigger_name,event_manipulation,event_object_schema,event_object_table,action_timing
+auth,on_auth_user_created,INSERT,auth,users,AFTER
+public,trg_app_demo_entitlements_updated_at,UPDATE,public,app_demo_entitlements,BEFORE
+public,trg_devices_updated_at,UPDATE,public,devices,BEFORE
+public,trg_products_updated_at,UPDATE,public,products,BEFORE
+public,trg_profiles_updated_at,UPDATE,public,profiles,BEFORE
+realtime,tr_check_filters,UPDATE,realtime,subscription,BEFORE
+realtime,tr_check_filters,INSERT,realtime,subscription,BEFORE
+storage,enforce_bucket_name_length_trigger,UPDATE,storage,buckets,BEFORE
+storage,enforce_bucket_name_length_trigger,INSERT,storage,buckets,BEFORE
+storage,protect_buckets_delete,DELETE,storage,buckets,BEFORE
+storage,protect_objects_delete,DELETE,storage,objects,BEFORE
+storage,update_objects_updated_at,UPDATE,storage,objects,BEFORE

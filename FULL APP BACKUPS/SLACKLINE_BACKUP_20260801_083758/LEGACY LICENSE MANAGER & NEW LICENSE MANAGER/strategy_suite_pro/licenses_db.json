@@ -1,0 +1,20 @@
+[
+  {
+    "activation_code": "CTP6A-eNptj81uozAUhfd9ioj1IPET.MOmuQBqa0knTOCmwsYwxxQ1g.wE5IUvXdBzrNSKOZ3b3nfOce.3Y-byURplNvJxzAMI27GRSFY.sJojyXkpUNNx5cdvW5CCVngg.9G-hZITWgiKWjTEPPquedgds.y_OuEcloN3rDFdSUB3HVG3yu.aC1RRWXBv9IN7QSvcfmnjB86.Qv_nZPQ49CLCM_pda6v-fKfO.fcM3PNe-cuQgJK9oh2pcfZEb.TAomi0nwDzG8xcoRuTolTulf.AhPiQDOE5SgammGrmq3qOtSc.WwPcWnqiDNznCCtiRPKFdF3H.lAXct_eX7b35GlZh3kbL8rAF.QdjU6jFrudXTfvm0_Vlou1zm.WQKdlQgsa5o60zxq-R6o0whf.Xmc2uqyfveVzBQrLW-Gk9TFy.2AbSu5J7muo-mHb2doDwvAOL.Sy3LnC9XbVwXvZGdQ5LPgk1y.t0nD5cwh0UZg4M5tAl3Sm-H8.vVMThwl4n3kntX-JnVncPJJM.fWljcEnki0iQiNjlzY_9HXLB.Q8_OZmhN-cp-kAuZqY7N1gcD.tvh0ikyws4-B0z4F5mq7zfeW.vsNT0KNWT-bMDwoNhdyqKTaD.dRKfIYIGS3-C7X6TQHCMo7bX.k3RxqghYxmt71u7xo346zsz0.Pe0WsCDTtXLz-QuCGs_-",
+    "customer_email": "",
+    "customer_name": "Sachith H",
+    "customer_note": "",
+    "device_code": "CTP6-DEV-ED2D2CB6",
+    "expires_at": "",
+    "expiry": "",
+    "issued_at": "2026-06-11T08:27:51Z",
+    "label": "",
+    "license_id": "CTP-C0A765CC",
+    "payment_method": "personal",
+    "revoked_at": "",
+    "signature_valid": true,
+    "source": "personal",
+    "status": "active",
+    "tier": "pro_plus"
+  }
+]

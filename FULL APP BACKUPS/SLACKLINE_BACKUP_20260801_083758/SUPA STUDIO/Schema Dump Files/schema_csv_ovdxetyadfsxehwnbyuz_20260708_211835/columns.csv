@@ -1,0 +1,588 @@
+table_schema,table_name,column_name,ordinal_position,is_nullable,data_type,udt_name
+auth,audit_log_entries,instance_id,1,YES,uuid,uuid
+auth,audit_log_entries,id,2,NO,uuid,uuid
+auth,audit_log_entries,payload,3,YES,json,json
+auth,audit_log_entries,created_at,4,YES,timestamp with time zone,timestamptz
+auth,audit_log_entries,ip_address,5,NO,character varying,varchar
+auth,custom_oauth_providers,id,1,NO,uuid,uuid
+auth,custom_oauth_providers,provider_type,2,NO,text,text
+auth,custom_oauth_providers,identifier,3,NO,text,text
+auth,custom_oauth_providers,name,4,NO,text,text
+auth,custom_oauth_providers,client_id,5,NO,text,text
+auth,custom_oauth_providers,client_secret,6,NO,text,text
+auth,custom_oauth_providers,acceptable_client_ids,7,NO,ARRAY,_text
+auth,custom_oauth_providers,scopes,8,NO,ARRAY,_text
+auth,custom_oauth_providers,pkce_enabled,9,NO,boolean,bool
+auth,custom_oauth_providers,attribute_mapping,10,NO,jsonb,jsonb
+auth,custom_oauth_providers,authorization_params,11,NO,jsonb,jsonb
+auth,custom_oauth_providers,enabled,12,NO,boolean,bool
+auth,custom_oauth_providers,email_optional,13,NO,boolean,bool
+auth,custom_oauth_providers,issuer,14,YES,text,text
+auth,custom_oauth_providers,discovery_url,15,YES,text,text
+auth,custom_oauth_providers,skip_nonce_check,16,NO,boolean,bool
+auth,custom_oauth_providers,cached_discovery,17,YES,jsonb,jsonb
+auth,custom_oauth_providers,discovery_cached_at,18,YES,timestamp with time zone,timestamptz
+auth,custom_oauth_providers,authorization_url,19,YES,text,text
+auth,custom_oauth_providers,token_url,20,YES,text,text
+auth,custom_oauth_providers,userinfo_url,21,YES,text,text
+auth,custom_oauth_providers,jwks_uri,22,YES,text,text
+auth,custom_oauth_providers,created_at,23,NO,timestamp with time zone,timestamptz
+auth,custom_oauth_providers,updated_at,24,NO,timestamp with time zone,timestamptz
+auth,custom_oauth_providers,custom_claims_allowlist,25,NO,ARRAY,_text
+auth,flow_state,id,1,NO,uuid,uuid
+auth,flow_state,user_id,2,YES,uuid,uuid
+auth,flow_state,auth_code,3,YES,text,text
+auth,flow_state,code_challenge_method,4,YES,USER-DEFINED,code_challenge_method
+auth,flow_state,code_challenge,5,YES,text,text
+auth,flow_state,provider_type,6,NO,text,text
+auth,flow_state,provider_access_token,7,YES,text,text
+auth,flow_state,provider_refresh_token,8,YES,text,text
+auth,flow_state,created_at,9,YES,timestamp with time zone,timestamptz
+auth,flow_state,updated_at,10,YES,timestamp with time zone,timestamptz
+auth,flow_state,authentication_method,11,NO,text,text
+auth,flow_state,auth_code_issued_at,12,YES,timestamp with time zone,timestamptz
+auth,flow_state,invite_token,13,YES,text,text
+auth,flow_state,referrer,14,YES,text,text
+auth,flow_state,oauth_client_state_id,15,YES,uuid,uuid
+auth,flow_state,linking_target_id,16,YES,uuid,uuid
+auth,flow_state,email_optional,17,NO,boolean,bool
+auth,identities,provider_id,1,NO,text,text
+auth,identities,user_id,2,NO,uuid,uuid
+auth,identities,identity_data,3,NO,jsonb,jsonb
+auth,identities,provider,4,NO,text,text
+auth,identities,last_sign_in_at,5,YES,timestamp with time zone,timestamptz
+auth,identities,created_at,6,YES,timestamp with time zone,timestamptz
+auth,identities,updated_at,7,YES,timestamp with time zone,timestamptz
+auth,identities,email,8,YES,text,text
+auth,identities,id,9,NO,uuid,uuid
+auth,instances,id,1,NO,uuid,uuid
+auth,instances,uuid,2,YES,uuid,uuid
+auth,instances,raw_base_config,3,YES,text,text
+auth,instances,created_at,4,YES,timestamp with time zone,timestamptz
+auth,instances,updated_at,5,YES,timestamp with time zone,timestamptz
+auth,mfa_amr_claims,session_id,1,NO,uuid,uuid
+auth,mfa_amr_claims,created_at,2,NO,timestamp with time zone,timestamptz
+auth,mfa_amr_claims,updated_at,3,NO,timestamp with time zone,timestamptz
+auth,mfa_amr_claims,authentication_method,4,NO,text,text
+auth,mfa_amr_claims,id,5,NO,uuid,uuid
+auth,mfa_challenges,id,1,NO,uuid,uuid
+auth,mfa_challenges,factor_id,2,NO,uuid,uuid
+auth,mfa_challenges,created_at,3,NO,timestamp with time zone,timestamptz
+auth,mfa_challenges,verified_at,4,YES,timestamp with time zone,timestamptz
+auth,mfa_challenges,ip_address,5,NO,inet,inet
+auth,mfa_challenges,otp_code,6,YES,text,text
+auth,mfa_challenges,web_authn_session_data,7,YES,jsonb,jsonb
+auth,mfa_factors,id,1,NO,uuid,uuid
+auth,mfa_factors,user_id,2,NO,uuid,uuid
+auth,mfa_factors,friendly_name,3,YES,text,text
+auth,mfa_factors,factor_type,4,NO,USER-DEFINED,factor_type
+auth,mfa_factors,status,5,NO,USER-DEFINED,factor_status
+auth,mfa_factors,created_at,6,NO,timestamp with time zone,timestamptz
+auth,mfa_factors,updated_at,7,NO,timestamp with time zone,timestamptz
+auth,mfa_factors,secret,8,YES,text,text
+auth,mfa_factors,phone,9,YES,text,text
+auth,mfa_factors,last_challenged_at,10,YES,timestamp with time zone,timestamptz
+auth,mfa_factors,web_authn_credential,11,YES,jsonb,jsonb
+auth,mfa_factors,web_authn_aaguid,12,YES,uuid,uuid
+auth,mfa_factors,last_webauthn_challenge_data,13,YES,jsonb,jsonb
+auth,oauth_authorizations,id,1,NO,uuid,uuid
+auth,oauth_authorizations,authorization_id,2,NO,text,text
+auth,oauth_authorizations,client_id,3,NO,uuid,uuid
+auth,oauth_authorizations,user_id,4,YES,uuid,uuid
+auth,oauth_authorizations,redirect_uri,5,NO,text,text
+auth,oauth_authorizations,scope,6,NO,text,text
+auth,oauth_authorizations,state,7,YES,text,text
+auth,oauth_authorizations,resource,8,YES,text,text
+auth,oauth_authorizations,code_challenge,9,YES,text,text
+auth,oauth_authorizations,code_challenge_method,10,YES,USER-DEFINED,code_challenge_method
+auth,oauth_authorizations,response_type,11,NO,USER-DEFINED,oauth_response_type
+auth,oauth_authorizations,status,12,NO,USER-DEFINED,oauth_authorization_status
+auth,oauth_authorizations,authorization_code,13,YES,text,text
+auth,oauth_authorizations,created_at,14,NO,timestamp with time zone,timestamptz
+auth,oauth_authorizations,expires_at,15,NO,timestamp with time zone,timestamptz
+auth,oauth_authorizations,approved_at,16,YES,timestamp with time zone,timestamptz
+auth,oauth_authorizations,nonce,17,YES,text,text
+auth,oauth_client_states,id,1,NO,uuid,uuid
+auth,oauth_client_states,provider_type,2,NO,text,text
+auth,oauth_client_states,code_verifier,3,YES,text,text
+auth,oauth_client_states,created_at,4,NO,timestamp with time zone,timestamptz
+auth,oauth_clients,id,1,NO,uuid,uuid
+auth,oauth_clients,client_secret_hash,3,YES,text,text
+auth,oauth_clients,registration_type,4,NO,USER-DEFINED,oauth_registration_type
+auth,oauth_clients,redirect_uris,5,NO,text,text
+auth,oauth_clients,grant_types,6,NO,text,text
+auth,oauth_clients,client_name,7,YES,text,text
+auth,oauth_clients,client_uri,8,YES,text,text
+auth,oauth_clients,logo_uri,9,YES,text,text
+auth,oauth_clients,created_at,10,NO,timestamp with time zone,timestamptz
+auth,oauth_clients,updated_at,11,NO,timestamp with time zone,timestamptz
+auth,oauth_clients,deleted_at,12,YES,timestamp with time zone,timestamptz
+auth,oauth_clients,client_type,13,NO,USER-DEFINED,oauth_client_type
+auth,oauth_clients,token_endpoint_auth_method,14,NO,text,text
+auth,oauth_consents,id,1,NO,uuid,uuid
+auth,oauth_consents,user_id,2,NO,uuid,uuid
+auth,oauth_consents,client_id,3,NO,uuid,uuid
+auth,oauth_consents,scopes,4,NO,text,text
+auth,oauth_consents,granted_at,5,NO,timestamp with time zone,timestamptz
+auth,oauth_consents,revoked_at,6,YES,timestamp with time zone,timestamptz
+auth,one_time_tokens,id,1,NO,uuid,uuid
+auth,one_time_tokens,user_id,2,NO,uuid,uuid
+auth,one_time_tokens,token_type,3,NO,USER-DEFINED,one_time_token_type
+auth,one_time_tokens,token_hash,4,NO,text,text
+auth,one_time_tokens,relates_to,5,NO,text,text
+auth,one_time_tokens,created_at,6,NO,timestamp without time zone,timestamp
+auth,one_time_tokens,updated_at,7,NO,timestamp without time zone,timestamp
+auth,refresh_tokens,instance_id,1,YES,uuid,uuid
+auth,refresh_tokens,id,2,NO,bigint,int8
+auth,refresh_tokens,token,3,YES,character varying,varchar
+auth,refresh_tokens,user_id,4,YES,character varying,varchar
+auth,refresh_tokens,revoked,5,YES,boolean,bool
+auth,refresh_tokens,created_at,6,YES,timestamp with time zone,timestamptz
+auth,refresh_tokens,updated_at,7,YES,timestamp with time zone,timestamptz
+auth,refresh_tokens,parent,8,YES,character varying,varchar
+auth,refresh_tokens,session_id,9,YES,uuid,uuid
+auth,saml_providers,id,1,NO,uuid,uuid
+auth,saml_providers,sso_provider_id,2,NO,uuid,uuid
+auth,saml_providers,entity_id,3,NO,text,text
+auth,saml_providers,metadata_xml,4,NO,text,text
+auth,saml_providers,metadata_url,5,YES,text,text
+auth,saml_providers,attribute_mapping,6,YES,jsonb,jsonb
+auth,saml_providers,created_at,7,YES,timestamp with time zone,timestamptz
+auth,saml_providers,updated_at,8,YES,timestamp with time zone,timestamptz
+auth,saml_providers,name_id_format,9,YES,text,text
+auth,saml_relay_states,id,1,NO,uuid,uuid
+auth,saml_relay_states,sso_provider_id,2,NO,uuid,uuid
+auth,saml_relay_states,request_id,3,NO,text,text
+auth,saml_relay_states,for_email,4,YES,text,text
+auth,saml_relay_states,redirect_to,5,YES,text,text
+auth,saml_relay_states,created_at,7,YES,timestamp with time zone,timestamptz
+auth,saml_relay_states,updated_at,8,YES,timestamp with time zone,timestamptz
+auth,saml_relay_states,flow_state_id,9,YES,uuid,uuid
+auth,schema_migrations,version,1,NO,character varying,varchar
+auth,sessions,id,1,NO,uuid,uuid
+auth,sessions,user_id,2,NO,uuid,uuid
+auth,sessions,created_at,3,YES,timestamp with time zone,timestamptz
+auth,sessions,updated_at,4,YES,timestamp with time zone,timestamptz
+auth,sessions,factor_id,5,YES,uuid,uuid
+auth,sessions,aal,6,YES,USER-DEFINED,aal_level
+auth,sessions,not_after,7,YES,timestamp with time zone,timestamptz
+auth,sessions,refreshed_at,8,YES,timestamp without time zone,timestamp
+auth,sessions,user_agent,9,YES,text,text
+auth,sessions,ip,10,YES,inet,inet
+auth,sessions,tag,11,YES,text,text
+auth,sessions,oauth_client_id,12,YES,uuid,uuid
+auth,sessions,refresh_token_hmac_key,13,YES,text,text
+auth,sessions,refresh_token_counter,14,YES,bigint,int8
+auth,sessions,scopes,15,YES,text,text
+auth,sso_domains,id,1,NO,uuid,uuid
+auth,sso_domains,sso_provider_id,2,NO,uuid,uuid
+auth,sso_domains,domain,3,NO,text,text
+auth,sso_domains,created_at,4,YES,timestamp with time zone,timestamptz
+auth,sso_domains,updated_at,5,YES,timestamp with time zone,timestamptz
+auth,sso_providers,id,1,NO,uuid,uuid
+auth,sso_providers,resource_id,2,YES,text,text
+auth,sso_providers,created_at,3,YES,timestamp with time zone,timestamptz
+auth,sso_providers,updated_at,4,YES,timestamp with time zone,timestamptz
+auth,sso_providers,disabled,5,YES,boolean,bool
+auth,users,instance_id,1,YES,uuid,uuid
+auth,users,id,2,NO,uuid,uuid
+auth,users,aud,3,YES,character varying,varchar
+auth,users,role,4,YES,character varying,varchar
+auth,users,email,5,YES,character varying,varchar
+auth,users,encrypted_password,6,YES,character varying,varchar
+auth,users,email_confirmed_at,7,YES,timestamp with time zone,timestamptz
+auth,users,invited_at,8,YES,timestamp with time zone,timestamptz
+auth,users,confirmation_token,9,YES,character varying,varchar
+auth,users,confirmation_sent_at,10,YES,timestamp with time zone,timestamptz
+auth,users,recovery_token,11,YES,character varying,varchar
+auth,users,recovery_sent_at,12,YES,timestamp with time zone,timestamptz
+auth,users,email_change_token_new,13,YES,character varying,varchar
+auth,users,email_change,14,YES,character varying,varchar
+auth,users,email_change_sent_at,15,YES,timestamp with time zone,timestamptz
+auth,users,last_sign_in_at,16,YES,timestamp with time zone,timestamptz
+auth,users,raw_app_meta_data,17,YES,jsonb,jsonb
+auth,users,raw_user_meta_data,18,YES,jsonb,jsonb
+auth,users,is_super_admin,19,YES,boolean,bool
+auth,users,created_at,20,YES,timestamp with time zone,timestamptz
+auth,users,updated_at,21,YES,timestamp with time zone,timestamptz
+auth,users,phone,22,YES,text,text
+auth,users,phone_confirmed_at,23,YES,timestamp with time zone,timestamptz
+auth,users,phone_change,24,YES,text,text
+auth,users,phone_change_token,25,YES,character varying,varchar
+auth,users,phone_change_sent_at,26,YES,timestamp with time zone,timestamptz
+auth,users,confirmed_at,27,YES,timestamp with time zone,timestamptz
+auth,users,email_change_token_current,28,YES,character varying,varchar
+auth,users,email_change_confirm_status,29,YES,smallint,int2
+auth,users,banned_until,30,YES,timestamp with time zone,timestamptz
+auth,users,reauthentication_token,31,YES,character varying,varchar
+auth,users,reauthentication_sent_at,32,YES,timestamp with time zone,timestamptz
+auth,users,is_sso_user,33,NO,boolean,bool
+auth,users,deleted_at,34,YES,timestamp with time zone,timestamptz
+auth,users,is_anonymous,35,NO,boolean,bool
+auth,webauthn_challenges,id,1,NO,uuid,uuid
+auth,webauthn_challenges,user_id,2,YES,uuid,uuid
+auth,webauthn_challenges,challenge_type,3,NO,text,text
+auth,webauthn_challenges,session_data,4,NO,jsonb,jsonb
+auth,webauthn_challenges,created_at,5,NO,timestamp with time zone,timestamptz
+auth,webauthn_challenges,expires_at,6,NO,timestamp with time zone,timestamptz
+auth,webauthn_credentials,id,1,NO,uuid,uuid
+auth,webauthn_credentials,user_id,2,NO,uuid,uuid
+auth,webauthn_credentials,credential_id,3,NO,bytea,bytea
+auth,webauthn_credentials,public_key,4,NO,bytea,bytea
+auth,webauthn_credentials,attestation_type,5,NO,text,text
+auth,webauthn_credentials,aaguid,6,YES,uuid,uuid
+auth,webauthn_credentials,sign_count,7,NO,bigint,int8
+auth,webauthn_credentials,transports,8,NO,jsonb,jsonb
+auth,webauthn_credentials,backup_eligible,9,NO,boolean,bool
+auth,webauthn_credentials,backed_up,10,NO,boolean,bool
+auth,webauthn_credentials,friendly_name,11,NO,text,text
+auth,webauthn_credentials,created_at,12,NO,timestamp with time zone,timestamptz
+auth,webauthn_credentials,updated_at,13,NO,timestamp with time zone,timestamptz
+auth,webauthn_credentials,last_used_at,14,YES,timestamp with time zone,timestamptz
+extensions,pg_stat_statements,userid,1,YES,oid,oid
+extensions,pg_stat_statements,dbid,2,YES,oid,oid
+extensions,pg_stat_statements,toplevel,3,YES,boolean,bool
+extensions,pg_stat_statements,queryid,4,YES,bigint,int8
+extensions,pg_stat_statements,query,5,YES,text,text
+extensions,pg_stat_statements,plans,6,YES,bigint,int8
+extensions,pg_stat_statements,total_plan_time,7,YES,double precision,float8
+extensions,pg_stat_statements,min_plan_time,8,YES,double precision,float8
+extensions,pg_stat_statements,max_plan_time,9,YES,double precision,float8
+extensions,pg_stat_statements,mean_plan_time,10,YES,double precision,float8
+extensions,pg_stat_statements,stddev_plan_time,11,YES,double precision,float8
+extensions,pg_stat_statements,calls,12,YES,bigint,int8
+extensions,pg_stat_statements,total_exec_time,13,YES,double precision,float8
+extensions,pg_stat_statements,min_exec_time,14,YES,double precision,float8
+extensions,pg_stat_statements,max_exec_time,15,YES,double precision,float8
+extensions,pg_stat_statements,mean_exec_time,16,YES,double precision,float8
+extensions,pg_stat_statements,stddev_exec_time,17,YES,double precision,float8
+extensions,pg_stat_statements,rows,18,YES,bigint,int8
+extensions,pg_stat_statements,shared_blks_hit,19,YES,bigint,int8
+extensions,pg_stat_statements,shared_blks_read,20,YES,bigint,int8
+extensions,pg_stat_statements,shared_blks_dirtied,21,YES,bigint,int8
+extensions,pg_stat_statements,shared_blks_written,22,YES,bigint,int8
+extensions,pg_stat_statements,local_blks_hit,23,YES,bigint,int8
+extensions,pg_stat_statements,local_blks_read,24,YES,bigint,int8
+extensions,pg_stat_statements,local_blks_dirtied,25,YES,bigint,int8
+extensions,pg_stat_statements,local_blks_written,26,YES,bigint,int8
+extensions,pg_stat_statements,temp_blks_read,27,YES,bigint,int8
+extensions,pg_stat_statements,temp_blks_written,28,YES,bigint,int8
+extensions,pg_stat_statements,shared_blk_read_time,29,YES,double precision,float8
+extensions,pg_stat_statements,shared_blk_write_time,30,YES,double precision,float8
+extensions,pg_stat_statements,local_blk_read_time,31,YES,double precision,float8
+extensions,pg_stat_statements,local_blk_write_time,32,YES,double precision,float8
+extensions,pg_stat_statements,temp_blk_read_time,33,YES,double precision,float8
+extensions,pg_stat_statements,temp_blk_write_time,34,YES,double precision,float8
+extensions,pg_stat_statements,wal_records,35,YES,bigint,int8
+extensions,pg_stat_statements,wal_fpi,36,YES,bigint,int8
+extensions,pg_stat_statements,wal_bytes,37,YES,numeric,numeric
+extensions,pg_stat_statements,jit_functions,38,YES,bigint,int8
+extensions,pg_stat_statements,jit_generation_time,39,YES,double precision,float8
+extensions,pg_stat_statements,jit_inlining_count,40,YES,bigint,int8
+extensions,pg_stat_statements,jit_inlining_time,41,YES,double precision,float8
+extensions,pg_stat_statements,jit_optimization_count,42,YES,bigint,int8
+extensions,pg_stat_statements,jit_optimization_time,43,YES,double precision,float8
+extensions,pg_stat_statements,jit_emission_count,44,YES,bigint,int8
+extensions,pg_stat_statements,jit_emission_time,45,YES,double precision,float8
+extensions,pg_stat_statements,jit_deform_count,46,YES,bigint,int8
+extensions,pg_stat_statements,jit_deform_time,47,YES,double precision,float8
+extensions,pg_stat_statements,stats_since,48,YES,timestamp with time zone,timestamptz
+extensions,pg_stat_statements,minmax_stats_since,49,YES,timestamp with time zone,timestamptz
+extensions,pg_stat_statements_info,dealloc,1,YES,bigint,int8
+extensions,pg_stat_statements_info,stats_reset,2,YES,timestamp with time zone,timestamptz
+public,app_demo_entitlements,id,1,NO,uuid,uuid
+public,app_demo_entitlements,user_id,2,NO,uuid,uuid
+public,app_demo_entitlements,app_code,3,NO,text,text
+public,app_demo_entitlements,device_code,4,NO,text,text
+public,app_demo_entitlements,device_fingerprint_hash,5,YES,text,text
+public,app_demo_entitlements,status,6,NO,text,text
+public,app_demo_entitlements,demo_started_at,7,NO,timestamp with time zone,timestamptz
+public,app_demo_entitlements,demo_expires_at,8,NO,timestamp with time zone,timestamptz
+public,app_demo_entitlements,last_verified_at,9,YES,timestamp with time zone,timestamptz
+public,app_demo_entitlements,metadata,10,NO,jsonb,jsonb
+public,app_demo_entitlements,created_at,11,NO,timestamp with time zone,timestamptz
+public,app_demo_entitlements,updated_at,12,NO,timestamp with time zone,timestamptz
+public,app_ratings,id,1,NO,uuid,uuid
+public,app_ratings,app_id,2,YES,uuid,uuid
+public,app_ratings,user_id,3,YES,uuid,uuid
+public,app_ratings,stars,4,YES,integer,int4
+public,app_ratings,review,5,YES,text,text
+public,app_ratings,created_at,6,YES,timestamp with time zone,timestamptz
+public,apps,id,1,NO,uuid,uuid
+public,apps,name,2,NO,text,text
+public,apps,tagline,3,YES,text,text
+public,apps,description,4,YES,text,text
+public,apps,version,5,NO,text,text
+public,apps,package_name,6,YES,text,text
+public,apps,category,7,YES,text,text
+public,apps,apk_url,8,YES,text,text
+public,apps,icon_url,9,YES,text,text
+public,apps,download_count,11,YES,integer,int4
+public,apps,is_published,12,YES,boolean,bool
+public,apps,requires_license,13,YES,boolean,bool
+public,apps,created_at,14,YES,timestamp with time zone,timestamptz
+public,apps,updated_at,15,YES,timestamp with time zone,timestamptz
+public,apps,screenshots,16,YES,text,text
+public,apps,is_featured,17,YES,boolean,bool
+public,apps,has_update,18,YES,boolean,bool
+public,apps,is_under_maintenance,19,YES,boolean,bool
+public,apps,pricing,20,YES,jsonb,jsonb
+public,apps,sort_order,21,YES,integer,int4
+public,apps,features,22,YES,jsonb,jsonb
+public,apps,sync_to_website,23,YES,boolean,bool
+public,backups,id,1,NO,uuid,uuid
+public,backups,user_id,2,NO,uuid,uuid
+public,backups,device_id,3,YES,uuid,uuid
+public,backups,app_code,4,NO,text,text
+public,backups,backup_name,5,NO,text,text
+public,backups,storage_path,6,NO,text,text
+public,backups,version,7,YES,text,text
+public,backups,backup_size,8,NO,bigint,int8
+public,backups,checksum,9,YES,text,text
+public,backups,is_auto,10,NO,boolean,bool
+public,backups,notes,11,YES,text,text
+public,backups,metadata,12,NO,jsonb,jsonb
+public,backups,created_at,13,NO,timestamp with time zone,timestamptz
+public,broadcasts,id,1,NO,uuid,uuid
+public,broadcasts,created_at,2,NO,timestamp with time zone,timestamptz
+public,broadcasts,title,3,NO,text,text
+public,broadcasts,message,4,NO,text,text
+public,client_requests,id,1,NO,uuid,uuid
+public,client_requests,created_at,2,NO,timestamp with time zone,timestamptz
+public,client_requests,name,3,NO,text,text
+public,client_requests,email,4,NO,text,text
+public,client_requests,whatsapp,5,YES,text,text
+public,client_requests,category,6,NO,text,text
+public,client_requests,description,7,NO,text,text
+public,client_requests,status,8,NO,text,text
+public,contact_info,id,1,NO,uuid,uuid
+public,contact_info,whatsapp,2,YES,text,text
+public,contact_info,email,3,YES,text,text
+public,contact_info,discord,4,YES,text,text
+public,contact_info,telegram,5,YES,text,text
+public,contact_info,instagram,6,YES,text,text
+public,contact_info,website,7,YES,text,text
+public,contact_info,updated_at,8,YES,timestamp with time zone,timestamptz
+public,device_tokens,user_id,1,NO,uuid,uuid
+public,device_tokens,token,2,NO,text,text
+public,device_tokens,updated_at,3,YES,timestamp with time zone,timestamptz
+public,device_tokens,device_model,4,YES,text,text
+public,devices,id,1,NO,uuid,uuid
+public,devices,user_id,2,NO,uuid,uuid
+public,devices,app_code,3,NO,text,text
+public,devices,device_name,4,NO,text,text
+public,devices,device_fingerprint_hash,5,YES,text,text
+public,devices,platform,6,YES,text,text
+public,devices,last_seen_at,7,YES,timestamp with time zone,timestamptz
+public,devices,metadata,8,NO,jsonb,jsonb
+public,devices,created_at,9,NO,timestamp with time zone,timestamptz
+public,devices,updated_at,10,NO,timestamp with time zone,timestamptz
+public,kl_demo_sessions,id,1,NO,uuid,uuid
+public,kl_demo_sessions,product_id,2,NO,text,text
+public,kl_demo_sessions,device_code,3,NO,text,text
+public,kl_demo_sessions,demo_started_at,4,YES,timestamp with time zone,timestamptz
+public,kl_demo_sessions,demo_expires_at,5,YES,timestamp with time zone,timestamptz
+public,kl_demo_sessions,is_active,6,YES,boolean,bool
+public,kl_licenses,id,1,NO,uuid,uuid
+public,kl_licenses,product_id,2,NO,text,text
+public,kl_licenses,license_id,3,NO,text,text
+public,kl_licenses,tier,4,NO,text,text
+public,kl_licenses,device_code,5,NO,text,text
+public,kl_licenses,customer_name,6,YES,text,text
+public,kl_licenses,customer_email,7,YES,text,text
+public,kl_licenses,issued_at,8,YES,timestamp with time zone,timestamptz
+public,kl_licenses,expires_at,9,YES,timestamp with time zone,timestamptz
+public,kl_licenses,status,10,NO,text,text
+public,kl_licenses,revoked_at,11,YES,timestamp with time zone,timestamptz
+public,kl_products,id,1,NO,uuid,uuid
+public,kl_products,product_id,2,NO,text,text
+public,kl_products,display_name,3,NO,text,text
+public,kl_products,prefix,4,NO,text,text
+public,kl_products,bundle_app,5,NO,text,text
+public,kl_products,created_at,6,YES,timestamp with time zone,timestamptz
+public,kl_revocations,id,1,NO,uuid,uuid
+public,kl_revocations,product_id,2,NO,text,text
+public,kl_revocations,payload,3,NO,jsonb,jsonb
+public,kl_revocations,signature,4,NO,text,text
+public,kl_revocations,updated_at,5,YES,timestamp with time zone,timestamptz
+public,news,id,1,NO,uuid,uuid
+public,news,title,2,NO,text,text
+public,news,body,3,NO,text,text
+public,news,cover_image_url,4,YES,text,text
+public,news,is_published,5,YES,boolean,bool
+public,news,created_at,6,YES,timestamp with time zone,timestamptz
+public,products,id,1,NO,uuid,uuid
+public,products,name,2,NO,text,text
+public,products,slug,3,NO,text,text
+public,products,tagline,4,YES,text,text
+public,products,description,5,YES,text,text
+public,products,icon_url,6,YES,text,text
+public,products,banner_url,7,YES,text,text
+public,products,features,8,NO,jsonb,jsonb
+public,products,screenshots,9,NO,jsonb,jsonb
+public,products,pros,10,NO,jsonb,jsonb
+public,products,video_url,11,YES,text,text
+public,products,pricing_type,12,NO,text,text
+public,products,price_label,13,YES,text,text
+public,products,pricing_tiers,14,NO,jsonb,jsonb
+public,products,min_android,15,YES,text,text
+public,products,app_version,16,YES,text,text
+public,products,app_size,17,YES,text,text
+public,products,app_code,18,YES,text,text
+public,products,tags,19,NO,jsonb,jsonb
+public,products,store_url,20,YES,text,text
+public,products,download_url,21,YES,text,text
+public,products,status,22,NO,text,text
+public,products,is_featured,23,NO,boolean,bool
+public,products,sort_order,24,NO,integer,int4
+public,products,created_at,25,NO,timestamp with time zone,timestamptz
+public,products,updated_at,26,NO,timestamp with time zone,timestamptz
+public,profiles,id,1,NO,uuid,uuid
+public,profiles,email,2,YES,text,text
+public,profiles,display_name,3,YES,text,text
+public,profiles,plan,4,NO,text,text
+public,profiles,account_status,5,NO,text,text
+public,profiles,created_at,6,NO,timestamp with time zone,timestamptz
+public,profiles,updated_at,7,NO,timestamp with time zone,timestamptz
+public,profiles,avatar_url,8,YES,text,text
+public,profiles,is_admin,9,YES,boolean,bool
+public,shv_admin_cloud_backups,id,1,NO,uuid,uuid
+public,shv_admin_cloud_backups,user_id,2,NO,uuid,uuid
+public,shv_admin_cloud_backups,app_code,3,NO,text,text
+public,shv_admin_cloud_backups,backup_name,4,NO,text,text
+public,shv_admin_cloud_backups,bundle_type,5,NO,text,text
+public,shv_admin_cloud_backups,blob_text,6,NO,text,text
+public,shv_admin_cloud_backups,created_at,7,NO,timestamp with time zone,timestamptz
+public,shv_admin_emergency_vault,id,1,NO,uuid,uuid
+public,shv_admin_emergency_vault,user_id,2,NO,uuid,uuid
+public,shv_admin_emergency_vault,category,3,NO,text,text
+public,shv_admin_emergency_vault,title,4,NO,text,text
+public,shv_admin_emergency_vault,value,5,NO,text,text
+public,shv_admin_emergency_vault,notes,6,NO,text,text
+public,shv_admin_emergency_vault,updated_at,7,NO,timestamp with time zone,timestamptz
+public,shv_admin_emergency_vault,created_at,8,NO,timestamp with time zone,timestamptz
+public,site_downloads,id,1,NO,uuid,uuid
+public,site_downloads,code,2,NO,text,text
+public,site_downloads,url,3,NO,text,text
+public,site_downloads,label,4,NO,text,text
+public,site_downloads,version,5,YES,text,text
+public,site_downloads,updated_at,6,NO,timestamp with time zone,timestamptz
+public,site_settings,key,1,NO,text,text
+public,site_settings,value,2,NO,text,text
+public,site_settings,updated_at,3,NO,timestamp with time zone,timestamptz
+public,store_config,id,1,NO,integer,int4
+public,store_config,latest_version,2,NO,text,text
+public,store_config,apk_url,3,NO,text,text
+public,store_config,update_message,4,YES,text,text
+public,upcoming_updates,id,1,NO,uuid,uuid
+public,upcoming_updates,app_name,2,NO,text,text
+public,upcoming_updates,title,3,NO,text,text
+public,upcoming_updates,description,4,YES,text,text
+public,upcoming_updates,target_version,5,YES,text,text
+public,upcoming_updates,status,6,YES,text,text
+public,upcoming_updates,expected_date,7,YES,text,text
+public,upcoming_updates,created_at,8,YES,timestamp with time zone,timestamptz
+realtime,messages,topic,3,NO,text,text
+realtime,messages,extension,4,NO,text,text
+realtime,messages,payload,5,YES,jsonb,jsonb
+realtime,messages,event,6,YES,text,text
+realtime,messages,private,7,YES,boolean,bool
+realtime,messages,updated_at,8,NO,timestamp without time zone,timestamp
+realtime,messages,inserted_at,9,NO,timestamp without time zone,timestamp
+realtime,messages,id,10,NO,uuid,uuid
+realtime,messages,binary_payload,11,YES,bytea,bytea
+realtime,schema_migrations,version,1,NO,bigint,int8
+realtime,schema_migrations,inserted_at,2,YES,timestamp without time zone,timestamp
+realtime,subscription,id,1,NO,bigint,int8
+realtime,subscription,subscription_id,2,NO,uuid,uuid
+realtime,subscription,entity,4,NO,regclass,regclass
+realtime,subscription,filters,5,NO,ARRAY,_user_defined_filter
+realtime,subscription,claims,7,NO,jsonb,jsonb
+realtime,subscription,claims_role,8,NO,regrole,regrole
+realtime,subscription,created_at,9,NO,timestamp without time zone,timestamp
+realtime,subscription,action_filter,10,YES,text,text
+realtime,subscription,selected_columns,11,YES,ARRAY,_text
+storage,buckets,id,1,NO,text,text
+storage,buckets,name,2,NO,text,text
+storage,buckets,owner,3,YES,uuid,uuid
+storage,buckets,created_at,4,YES,timestamp with time zone,timestamptz
+storage,buckets,updated_at,5,YES,timestamp with time zone,timestamptz
+storage,buckets,public,6,YES,boolean,bool
+storage,buckets,avif_autodetection,7,YES,boolean,bool
+storage,buckets,file_size_limit,8,YES,bigint,int8
+storage,buckets,allowed_mime_types,9,YES,ARRAY,_text
+storage,buckets,owner_id,10,YES,text,text
+storage,buckets,type,11,NO,USER-DEFINED,buckettype
+storage,buckets_analytics,name,1,NO,text,text
+storage,buckets_analytics,type,2,NO,USER-DEFINED,buckettype
+storage,buckets_analytics,format,3,NO,text,text
+storage,buckets_analytics,created_at,4,NO,timestamp with time zone,timestamptz
+storage,buckets_analytics,updated_at,5,NO,timestamp with time zone,timestamptz
+storage,buckets_analytics,id,6,NO,uuid,uuid
+storage,buckets_analytics,deleted_at,7,YES,timestamp with time zone,timestamptz
+storage,buckets_vectors,id,1,NO,text,text
+storage,buckets_vectors,type,2,NO,USER-DEFINED,buckettype
+storage,buckets_vectors,created_at,3,NO,timestamp with time zone,timestamptz
+storage,buckets_vectors,updated_at,4,NO,timestamp with time zone,timestamptz
+storage,migrations,id,1,NO,integer,int4
+storage,migrations,name,2,NO,character varying,varchar
+storage,migrations,hash,3,NO,character varying,varchar
+storage,migrations,executed_at,4,YES,timestamp without time zone,timestamp
+storage,objects,id,1,NO,uuid,uuid
+storage,objects,bucket_id,2,YES,text,text
+storage,objects,name,3,YES,text,text
+storage,objects,owner,4,YES,uuid,uuid
+storage,objects,created_at,5,YES,timestamp with time zone,timestamptz
+storage,objects,updated_at,6,YES,timestamp with time zone,timestamptz
+storage,objects,last_accessed_at,7,YES,timestamp with time zone,timestamptz
+storage,objects,metadata,8,YES,jsonb,jsonb
+storage,objects,path_tokens,9,YES,ARRAY,_text
+storage,objects,version,10,YES,text,text
+storage,objects,owner_id,11,YES,text,text
+storage,objects,user_metadata,12,YES,jsonb,jsonb
+storage,s3_multipart_uploads,id,1,NO,text,text
+storage,s3_multipart_uploads,in_progress_size,2,NO,bigint,int8
+storage,s3_multipart_uploads,upload_signature,3,NO,text,text
+storage,s3_multipart_uploads,bucket_id,4,NO,text,text
+storage,s3_multipart_uploads,key,5,NO,text,text
+storage,s3_multipart_uploads,version,6,NO,text,text
+storage,s3_multipart_uploads,owner_id,7,YES,text,text
+storage,s3_multipart_uploads,created_at,8,NO,timestamp with time zone,timestamptz
+storage,s3_multipart_uploads,user_metadata,9,YES,jsonb,jsonb
+storage,s3_multipart_uploads,metadata,10,YES,jsonb,jsonb
+storage,s3_multipart_uploads_parts,id,1,NO,uuid,uuid
+storage,s3_multipart_uploads_parts,upload_id,2,NO,text,text
+storage,s3_multipart_uploads_parts,size,3,NO,bigint,int8
+storage,s3_multipart_uploads_parts,part_number,4,NO,integer,int4
+storage,s3_multipart_uploads_parts,bucket_id,5,NO,text,text
+storage,s3_multipart_uploads_parts,key,6,NO,text,text
+storage,s3_multipart_uploads_parts,etag,7,NO,text,text
+storage,s3_multipart_uploads_parts,owner_id,8,YES,text,text
+storage,s3_multipart_uploads_parts,version,9,NO,text,text
+storage,s3_multipart_uploads_parts,created_at,10,NO,timestamp with time zone,timestamptz
+storage,vector_indexes,id,1,NO,text,text
+storage,vector_indexes,name,2,NO,text,text
+storage,vector_indexes,bucket_id,3,NO,text,text
+storage,vector_indexes,data_type,4,NO,text,text
+storage,vector_indexes,dimension,5,NO,integer,int4
+storage,vector_indexes,distance_metric,6,NO,text,text
+storage,vector_indexes,metadata_configuration,7,YES,jsonb,jsonb
+storage,vector_indexes,created_at,8,NO,timestamp with time zone,timestamptz
+storage,vector_indexes,updated_at,9,NO,timestamp with time zone,timestamptz
+vault,decrypted_secrets,id,1,YES,uuid,uuid
+vault,decrypted_secrets,name,2,YES,text,text
+vault,decrypted_secrets,description,3,YES,text,text
+vault,decrypted_secrets,secret,4,YES,text,text
+vault,decrypted_secrets,decrypted_secret,5,YES,text,text
+vault,decrypted_secrets,key_id,6,YES,uuid,uuid
+vault,decrypted_secrets,nonce,7,YES,bytea,bytea
+vault,decrypted_secrets,created_at,8,YES,timestamp with time zone,timestamptz
+vault,decrypted_secrets,updated_at,9,YES,timestamp with time zone,timestamptz
+vault,secrets,id,1,NO,uuid,uuid
+vault,secrets,name,2,YES,text,text
+vault,secrets,description,3,NO,text,text
+vault,secrets,secret,4,NO,text,text
+vault,secrets,key_id,5,YES,uuid,uuid
+vault,secrets,nonce,6,YES,bytea,bytea
+vault,secrets,created_at,7,NO,timestamp with time zone,timestamptz
+vault,secrets,updated_at,8,NO,timestamp with time zone,timestamptz

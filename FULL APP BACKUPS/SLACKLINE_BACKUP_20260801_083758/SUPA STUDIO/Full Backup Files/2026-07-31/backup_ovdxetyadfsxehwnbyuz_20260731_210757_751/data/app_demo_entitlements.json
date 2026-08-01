@@ -1,0 +1,271 @@
+[
+  {
+    "id": "212e0b47-d7d3-48cc-a583-4145a9321388",
+    "user_id": "2f381263-d1b9-45d2-8ee0-bb66dace99ea",
+    "app_code": "simplibudget",
+    "device_code": "BGT-DEV-FB335D3148ED2043",
+    "device_fingerprint_hash": "d5be07327f35e9df1c4f26ca3da981f98f5958afe356e5854e54e6b338b58a86",
+    "status": "converted",
+    "demo_started_at": "2026-04-16 22:14:46.989+00",
+    "demo_expires_at": "2026-04-17 22:14:46.989+00",
+    "last_verified_at": "2026-04-21 18:45:04.003+00",
+    "metadata": {
+      "platform": "Linux 4.19.157-perf+",
+      "app_version": "4.7",
+      "device_name": "Linux aarch64",
+      "converted_at": "2026-04-21T18:45:04.003Z",
+      "pro_license_id": "BGT-7F2D389D",
+      "expired_by_server": true,
+      "offline_grace_minutes": 60
+    },
+    "created_at": "2026-04-16 22:14:47.043997+00",
+    "updated_at": "2026-04-21 18:45:04.074005+00"
+  },
+  {
+    "id": "36b6edd9-fe4f-4062-84eb-4f4db97790c9",
+    "user_id": "68d93ccd-6e92-4b2e-bd2b-45440620276b",
+    "app_code": "simplibudget",
+    "device_code": "BGT-DEV-D5DBD6D236737788",
+    "device_fingerprint_hash": "9d82f4c57a412041f9122253c03febcbbf351d0ac4d8994741829c175beaeff3",
+    "status": "converted",
+    "demo_started_at": "2026-04-21 10:49:47.834+00",
+    "demo_expires_at": "2026-04-22 10:49:47.834+00",
+    "last_verified_at": "2026-04-25 08:18:19.083+00",
+    "metadata": {
+      "platform": "Linux 4.19.157-perf+",
+      "app_version": "4.7",
+      "device_name": "Linux aarch64",
+      "converted_at": "2026-04-25T08:18:19.083Z",
+      "pro_license_id": "BGT-5CF9DE21",
+      "expired_by_server": true,
+      "offline_grace_minutes": 60
+    },
+    "created_at": "2026-04-21 10:49:47.880471+00",
+    "updated_at": "2026-04-25 08:18:19.152984+00"
+  },
+  {
+    "id": "8506eee6-f1a3-48b7-8480-1af88e4668e3",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "sample_modapp",
+    "device_code": "1764D028",
+    "device_fingerprint_hash": "83d2a16d57d0e202f53a7f377470cf375b9f6e0577b8c15f0681ab0a99454bf0",
+    "status": "active",
+    "demo_started_at": "2026-06-01 14:33:24.72+00",
+    "demo_expires_at": "2026-06-02 14:33:24.72+00",
+    "last_verified_at": "2026-06-01 14:35:50.136+00",
+    "metadata": {
+      "demo_hours": 24,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-06-01 14:33:25.284533+00",
+    "updated_at": "2026-06-01 14:35:50.31873+00"
+  },
+  {
+    "id": "ce5ab8ea-05d0-4f0c-ba36-7b76baaec437",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "test1",
+    "device_code": "005D7254",
+    "device_fingerprint_hash": "b46b31ff109b377a5433380c3f35c548813ea43cc12c71004ead830b242e5d17",
+    "status": "converted",
+    "demo_started_at": "2026-05-02 23:18:40.917+00",
+    "demo_expires_at": "2026-05-03 23:18:40.917+00",
+    "last_verified_at": "2026-05-03 00:07:35.681+00",
+    "metadata": {
+      "tier": "pro",
+      "converted_at": "2026-05-03T00:07:41.140Z",
+      "converted_license_id": "TST-AA401905"
+    },
+    "created_at": "2026-05-02 23:18:41.101966+00",
+    "updated_at": "2026-05-03 00:07:41.343304+00"
+  },
+  {
+    "id": "13f97a85-cb3b-4ae7-874c-960eb8821024",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "interstellarcalc",
+    "device_code": "E4875EA0",
+    "device_fingerprint_hash": "348d8f41ca2dbec17c953ed18b60049ae4da32028b268a9fbd1222c67c91eeef",
+    "status": "active",
+    "demo_started_at": "2026-05-20 23:09:10.746+00",
+    "demo_expires_at": "2026-05-21 23:09:10.746+00",
+    "last_verified_at": "2026-05-20 23:20:24.845+00",
+    "metadata": {
+      "demo_hours": 24,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-05-20 23:09:10.886812+00",
+    "updated_at": "2026-05-20 23:20:25.01403+00"
+  },
+  {
+    "id": "fcb2643d-4c04-440a-b7f1-2af18a88f212",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "testing_app_1",
+    "device_code": "005D7254",
+    "device_fingerprint_hash": "391b849a7151ddb255ddc74f7fa3c63fe1030e9bce1eff8e5d55a7b49987d617",
+    "status": "active",
+    "demo_started_at": "2026-05-03 03:47:27.326+00",
+    "demo_expires_at": "2026-05-05 03:47:27.326+00",
+    "last_verified_at": "2026-05-03 03:47:28.258+00",
+    "metadata": {
+      "demo_hours": 48,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-05-03 03:47:27.562774+00",
+    "updated_at": "2026-05-03 03:47:28.455522+00"
+  },
+  {
+    "id": "f8b39543-85f9-451b-828d-30d373d20d5d",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "universal_convertor_by_shv",
+    "device_code": "005D7254",
+    "device_fingerprint_hash": "0e004c056afb7a09fabdcd7bee0de66b4f12f76fff7f0df54650620163732c2f",
+    "status": "converted",
+    "demo_started_at": "2026-05-11 21:12:46.664+00",
+    "demo_expires_at": "2026-05-13 21:12:46.664+00",
+    "last_verified_at": "2026-05-11 21:35:53.199+00",
+    "metadata": {
+      "tier": "pro",
+      "converted_at": "2026-05-12T01:48:56.969Z",
+      "converted_license_id": "UNICONV-CD0CDE5B"
+    },
+    "created_at": "2026-05-11 21:12:46.872847+00",
+    "updated_at": "2026-05-12 01:48:57.149949+00"
+  },
+  {
+    "id": "0281454f-6ecb-4371-a3bd-f81d522a5630",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "testing_app_2",
+    "device_code": "005D7254",
+    "device_fingerprint_hash": "8068b35ed879af62ed9ab4acc55db81fa3511e2ad7034d68fc05e9fbcaf26ce5",
+    "status": "active",
+    "demo_started_at": "2026-05-03 05:48:14.112+00",
+    "demo_expires_at": "2026-05-04 05:48:14.112+00",
+    "last_verified_at": "2026-05-03 06:30:29.878+00",
+    "metadata": {
+      "demo_hours": 24,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-05-03 05:48:14.332728+00",
+    "updated_at": "2026-05-03 06:30:30.441901+00"
+  },
+  {
+    "id": "600c6964-8a38-4168-8030-108679555f1b",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "testing_app2",
+    "device_code": "1764D028",
+    "device_fingerprint_hash": "6d153479d37c8ee2af58f73eee3362d8051cacd7944455a7562517d7f7368fbf",
+    "status": "active",
+    "demo_started_at": "2026-06-01 16:18:27.633+00",
+    "demo_expires_at": "2026-06-02 16:18:27.633+00",
+    "last_verified_at": "2026-06-01 16:19:54.066+00",
+    "metadata": {
+      "demo_hours": 24,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-06-01 16:18:28.118909+00",
+    "updated_at": "2026-06-01 16:19:54.232603+00"
+  },
+  {
+    "id": "9f0e4e5b-7fd3-44d6-b4d4-960f48e06f76",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "interstellar_calc",
+    "device_code": "E4875EA0",
+    "device_fingerprint_hash": "fe9f9346484e14bccf9333f1e8708d8b51ee6593cbdd3211185df16cfafad323",
+    "status": "converted",
+    "demo_started_at": "2026-05-21 01:05:23.948+00",
+    "demo_expires_at": "2026-05-22 01:05:23.948+00",
+    "last_verified_at": "2026-05-21 19:36:26.417+00",
+    "metadata": {
+      "tier": "pro",
+      "converted_at": "2026-05-24T10:05:35.934Z",
+      "converted_license_id": "INTCA-7C88911D"
+    },
+    "created_at": "2026-05-21 01:05:24.109409+00",
+    "updated_at": "2026-05-24 10:05:36.589421+00"
+  },
+  {
+    "id": "1b142f5f-ed55-4215-8c13-f837446f2cad",
+    "user_id": "9803254b-861a-4dba-b134-a558fd9229ba",
+    "app_code": "universal_convertor_by_shv",
+    "device_code": "44B86FD2",
+    "device_fingerprint_hash": "c0a7584af3125c6cea8084753ea9db676cf77f0702d9141580e341c77ccae3a9",
+    "status": "active",
+    "demo_started_at": "2026-05-12 08:55:00.38+00",
+    "demo_expires_at": "2026-05-14 08:55:00.38+00",
+    "last_verified_at": "2026-05-12 09:17:23.404+00",
+    "metadata": {
+      "demo_hours": 48,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-05-12 08:55:00.824259+00",
+    "updated_at": "2026-05-12 09:17:23.742834+00"
+  },
+  {
+    "id": "399ae274-e6d7-4a1f-9314-45105f7d7e23",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "shv_modapp1",
+    "device_code": "1764D028",
+    "device_fingerprint_hash": "8e18afde16e184306554bc3a5b0c6d3fd57f25bf1f7f2ea3a30aaa89ac05159b",
+    "status": "active",
+    "demo_started_at": "2026-06-01 05:40:54.647+00",
+    "demo_expires_at": "2026-06-02 05:40:54.647+00",
+    "last_verified_at": "2026-06-01 05:40:54.647+00",
+    "metadata": {
+      "demo_hours": 24,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-06-01 05:40:55.461291+00",
+    "updated_at": "2026-06-01 05:40:55.461291+00"
+  },
+  {
+    "id": "a2e9051b-b8b6-46dd-ac45-e5c969d35506",
+    "user_id": "f443471d-1811-4ab9-ba88-e9ee0135710a",
+    "app_code": "universal_convertor_by_shv",
+    "device_code": "3777D6BE",
+    "device_fingerprint_hash": "ea2a2e140fbeb300f657bdf17e9315cd1aa7c2c99097c9b599c59d62c774cb88",
+    "status": "converted",
+    "demo_started_at": "2026-05-22 07:00:29.003+00",
+    "demo_expires_at": "2026-05-24 07:00:29.003+00",
+    "last_verified_at": "2026-05-22 07:00:31.146+00",
+    "metadata": {
+      "tier": "pro",
+      "converted_at": "2026-05-22T07:01:09.144Z",
+      "converted_license_id": "UNICONV-6EFBFEA0"
+    },
+    "created_at": "2026-05-22 07:00:29.973818+00",
+    "updated_at": "2026-05-22 07:01:10.111767+00"
+  },
+  {
+    "id": "baa88cc6-bbcf-4fa7-9f69-aacd31217d80",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "sample_navapp",
+    "device_code": "1764D028",
+    "device_fingerprint_hash": "672069a95d4058701cbd14ac336d3d68bb27aab15d90fe1cd2b8b080df9c19eb",
+    "status": "active",
+    "demo_started_at": "2026-06-01 08:53:14.08+00",
+    "demo_expires_at": "2026-06-02 08:53:14.08+00",
+    "last_verified_at": "2026-06-01 13:01:28.048+00",
+    "metadata": {
+      "demo_hours": 24,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-06-01 08:53:14.355173+00",
+    "updated_at": "2026-06-01 13:01:28.631645+00"
+  },
+  {
+    "id": "f0a63b20-6ed5-44c9-a3a5-a2a38a7da5e2",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "app_code": "sam_navapp",
+    "device_code": "1764D028",
+    "device_fingerprint_hash": "920332e44141e6d08d069c2c4bd7d6f0706f4753c1ce55cdb485bd0bc9deee9d",
+    "status": "active",
+    "demo_started_at": "2026-06-01 08:28:16.837+00",
+    "demo_expires_at": "2026-06-02 08:28:16.837+00",
+    "last_verified_at": "2026-06-01 08:43:21.214+00",
+    "metadata": {
+      "demo_hours": 24,
+      "started_via": "shv-app-demo-v2"
+    },
+    "created_at": "2026-06-01 08:28:17.078415+00",
+    "updated_at": "2026-06-01 08:43:21.805845+00"
+  }
+]
