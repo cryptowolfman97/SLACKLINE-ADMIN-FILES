@@ -1,0 +1,21 @@
+[
+  {
+    "id": "741cade9-4435-4892-b0d9-4e7c31078754",
+    "user_id": "ee46dcf3-4563-4456-8251-cfde7ccfc595",
+    "device_id": "dbe53f26-951d-4325-90b6-ff99f563e817",
+    "app_code": "simplibudget",
+    "backup_name": "SimpliBudget 20260416_010924",
+    "storage_path": "ee46dcf3-4563-4456-8251-cfde7ccfc595/simplibudget/dbe53f26-951d-4325-90b6-ff99f563e817/20260416_010924_simplibudget_by_shv.json.z",
+    "version": "phase3_4_final",
+    "backup_size": 935,
+    "checksum": "a040eb90994b3f3a399133df5df2f87da787cc1d3b1c75e3c817e13e2fa6b041",
+    "is_auto": false,
+    "notes": "Compressed manual cloud backup uploaded from Android app.",
+    "metadata": {
+      "device_code": "BGT-DEV-A6414D7E2EB50BA5",
+      "exported_at": "2026-04-16T01:09:24Z",
+      "cloud_schema": "phase1_manual_backup"
+    },
+    "created_at": "2026-04-16 01:09:25.899757+00"
+  }
+]
