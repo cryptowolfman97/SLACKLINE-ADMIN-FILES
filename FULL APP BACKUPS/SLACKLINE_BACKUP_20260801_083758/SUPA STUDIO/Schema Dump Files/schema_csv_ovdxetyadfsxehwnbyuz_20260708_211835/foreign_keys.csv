@@ -1,6 +1,0 @@
-table_schema,table_name,constraint_name,column_name,foreign_schema,foreign_table,foreign_column
-public,app_ratings,app_ratings_app_id_fkey,app_id,public,apps,id
-public,backups,backups_device_id_fkey,device_id,public,devices,id
-public,kl_demo_sessions,kl_demo_sessions_product_id_fkey,product_id,public,kl_products,product_id
-public,kl_licenses,kl_licenses_product_id_fkey,product_id,public,kl_products,product_id
-public,kl_revocations,kl_revocations_product_id_fkey,product_id,public,kl_products,product_id
