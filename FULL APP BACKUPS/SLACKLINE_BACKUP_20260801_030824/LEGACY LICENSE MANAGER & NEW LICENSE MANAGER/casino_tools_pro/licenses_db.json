@@ -1,0 +1,20 @@
+[
+  {
+    "activation_code": "CTP6A-eNptj0tzokAUhff5FRbrYYqH.oGY1BlCMBgHB16aLR6e7FWjs.bjAxlf8-kImzmdnde8537qn7.8TAYSLX0OPjohm5M6n6RsoST.igJBacFBzaj044_NMwzLpCPU.b6EgGaw4BCTvY1bky8bYMhTF.Ht8jgkDWe90VUBcNv-t18l7C.SoASCky_0jVknFZJ8beMNiyD._3Ny2Ha9IKM5_K41ZdvZyoby.NLR13bxzWcMFLSEDVVJ-kZsk.w0TggfsP0b1Fih7hGBNGykbg.BtE8-YV642dGy3ukSFL4Rd4F.wnkDc5CIXtQUzZQVU9ZGkTp8.VNVHXTlKHffZwxLvkfXydrXr.V3GK1q6w_OK0ujDE4tcidcCW.xrmNvHC-PQ8jnF8iX3shplKq.--vKXuRE349Xgb54DZrbm0ei.WWAh5NveJUPHZgph0A6RFluO.tp5ZptfK9e4K8-gtmIwPyKeO.FvPmaNzKnMdID2YOXtoFTaNw.k4SpOnFXbD31q9Vloh8ZAiAN.0001KugUzEHVJgv3dsJDQ2fY.P2fec1o8b4PRqIX4cgQVJgE8.nzeOnjtbQJaTxIxeZvtdOg-N.0p1tlobcRrDgQl1Dt93GNh8b.hxCZ0ciVF41Xk8yIFFEi6-ni.hUfnbc747qY2h9sosKAqSm3D.zjZ_xhMWLUzxIi5zPD1NDv67.FTf7uN5rOyQ9fP4G-43cDA",
+    "customer_email": "shhirimuthugoda@gmail.com",
+    "customer_name": "Sachith H",
+    "customer_note": "",
+    "device_code": "CTP6-DEV-50B4D336",
+    "expires_at": "",
+    "expiry": "",
+    "issued_at": "2026-06-27T14:11:30Z",
+    "label": "",
+    "license_id": "CTP-58C500D8",
+    "payment_method": "personal",
+    "revoked_at": "",
+    "signature_valid": true,
+    "source": "personal",
+    "status": "active",
+    "tier": "pro_plus"
+  }
+]
