@@ -1,0 +1,372 @@
+[
+  {
+    "id": "32735b45-a6ae-4f7a-8a87-baa61a47e008",
+    "name": "INTERSTELLAR CALCULATOR + ",
+    "tagline": "Explore the universe through real astrophysics — calculate it, catalogue it, see it!",
+    "description": "InterstellarCalc turns your phone into a pocket astrophysics lab. Explore curated catalogues of stars, black holes, and deep-sky objects — each entry enriched with live NASA imagery and real-time SIMBAD astronomical database lookups — then dive into 12+ precision calculators covering everything from relativistic rocket travel to black hole physics. Beautiful animated space illustrations and a slick dark theme make heavy physics feel intuitive and genuinely fun to explore, whether you\u0027re a student, an educator, or just a space nerd who wants real numbers instead of sci-fi guesses.",
+    "version": "1.0",
+    "package_name": "com.example.interstellarcalc",
+    "category": "SCIENCE",
+    "apk_url": "https://www.dropbox.com/scl/fi/mq7j8t8xpch4g96f2vkh2/int-calc-v1.0.apk?rlkey\u003dy0jpqqe7gnfpc08j6jqqya6i1\u0026st\u003d5y67y56h\u0026dl\u003d1",
+    "icon_url": "https://www.dropbox.com/scl/fi/rhpkxmvndzegk8ge5sabx/Colorful-Cute-Icons-Icon-Set_20260524_105850_0000.png?rlkey\u003ddfd4qo1kkyrter7xd8j473gq6\u0026st\u003dji7wb780\u0026dl\u003d1",
+    "download_count": 0,
+    "is_published": true,
+    "requires_license": true,
+    "created_at": "2026-07-14 01:51:51.059739+00",
+    "updated_at": "2026-07-14 01:51:51.059739+00",
+    "screenshots": "https://www.dropbox.com/scl/fi/dbwef6n9jid22q09zkrjn/Screenshot_20260708-160538.png?rlkey\u003dcy3qtkt3ll2g5zvw5q9izwzcd\u0026st\u003dq37guoby\u0026raw\u003d1, https://www.dropbox.com/scl/fi/vxsx08frozcgmobb0y6pu/Screenshot_20260708-160542.png?rlkey\u003dnovi9tgv456ul7d1y7hoe56xw\u0026st\u003dcml6tee5\u0026raw\u003d1, https://www.dropbox.com/scl/fi/zy3srhgperuez5sfok1cc/Screenshot_20260708-160547.png?rlkey\u003dhc36dos8te3lgpzccbl1jgwgj\u0026st\u003dslmn92qe\u0026raw\u003d1, https://www.dropbox.com/scl/fi/0lfhcalk3raohymvy84vo/Screenshot_20260708-160554.png?rlkey\u003dd6aya9rg64pd623f9y02rnpdm\u0026st\u003duytcas4f\u0026raw\u003d1, https://www.dropbox.com/scl/fi/nyobjmjguiluhj6zmibju/Screenshot_20260708-160558.png?rlkey\u003dx8dqmqrr8qqmdsu9ge4xi193g\u0026st\u003dgp4ok0od\u0026raw\u003d1, https://www.dropbox.com/scl/fi/bwg2ydt2wusps2rky09pa/Screenshot_20260708-160604.png?rlkey\u003d9gqdv59c4n0v96ellm6312ju4\u0026st\u003dds9kc9xa\u0026raw\u003d1, https://www.dropbox.com/scl/fi/y95ooetm6j1jvzhtsuld7/Screenshot_20260708-160609.png?rlkey\u003d5171fqxyo169yl78ehwje26n1\u0026st\u003dsh115o65\u0026raw\u003d1, https://www.dropbox.com/scl/fi/g3hobdr5qjtik4t8ivrnm/Screenshot_20260708-160615.png?rlkey\u003dwu9k9tgfaow29qs072jquo410\u0026st\u003d7943xsks\u0026raw\u003d1, https://www.dropbox.com/scl/fi/b8iwuwhungpth79927ya8/Screenshot_20260708-160620.png?rlkey\u003d7kaik08xvwdsacey5va4b93l7\u0026st\u003df02vw1zw\u0026raw\u003d1, https://www.dropbox.com/scl/fi/rd19wdtmw0ay8ojceqguo/Screenshot_20260708-160626.png?rlkey\u003domhqm59wa86i3vk48axweaqln\u0026st\u003d4p97hu4q\u0026raw\u003d1, https://www.dropbox.com/scl/fi/hcjyqeej8ddka5uqeamgp/Screenshot_20260708-160632.png?rlkey\u003dsw3vok5vbhgdvofd6zup025eu\u0026st\u003disi7iycc\u0026raw\u003d1, https://www.dropbox.com/scl/fi/4xmz565huetnui78ml1kx/Screenshot_20260708-160639.png?rlkey\u003dg2lkuezvc1lct271f1cjdxday\u0026st\u003d5blqyxmd\u0026raw\u003d1, https://www.dropbox.com/scl/fi/rndl55dgxha8kgv6xv5y0/Screenshot_20260708-160646.png?rlkey\u003dpavzfbb2dzus1nkd3q88rjpfv\u0026st\u003du5cu1lvs\u0026raw\u003d1, https://www.dropbox.com/scl/fi/ieh6w6mcwulae789zzjt8/Screenshot_20260708-160652.png?rlkey\u003d0saxggpjurqh0dvsa5ss1st06\u0026st\u003d10f15u2c\u0026raw\u003d1, https://www.dropbox.com/scl/fi/4fja0yepalxxbiu62gook/Screenshot_20260708-160657.png?rlkey\u003dukgfqooilxzylvrmbmt3yd9cw\u0026st\u003dc8kks8pz\u0026raw\u003d1, https://www.dropbox.com/scl/fi/a3w46cdy96ck9379rf4kp/Screenshot_20260708-160702.png?rlkey\u003duxzicm8f6tfuthtprtmxyz8jm\u0026st\u003dz4e76dr6\u0026raw\u003d1",
+    "is_featured": false,
+    "has_update": false,
+    "is_under_maintenance": false,
+    "pricing": [
+      {
+        "tier": "Demo",
+        "type": "one_time",
+        "price": "24H Trial Demo with SHVERTEX Account"
+      },
+      {
+        "tier": "Pro",
+        "type": "one_time",
+        "price": "5.99"
+      }
+    ],
+    "sort_order": 7,
+    "features": [
+      "- **Star Catalogue** — searchable star database with NASA imagery and live SIMBAD data lookup",
+      "- **Black Hole Catalogue** — mass, Schwarzschild radius, spin, discovery info, fun facts",
+      "- **Deep Sky Catalogue** — nebulae, galaxies, and clusters with detail screens",
+      "- **Physics Calculators:**",
+      "- Relativistic Rocket",
+      "- Orbital Mechanics",
+      "- Tsiolkovsky Rocket Equation",
+      "- Hohmann Transfer Orbit",
+      "- Gravitational Time Dilation",
+      "- Escape Velocity",
+      "- Velocity-based Time Dilation",
+      "- Planet Weight Calculator",
+      "- Schwarzschild Radius",
+      "- Light Travel Time",
+      "- Stellar Lifetime Estimator",
+      "- Redshift Calculator",
+      "- Animated celestial illustrations and dynamic space background",
+      "- Light/dark theming with persistent preferences",
+      "- Detail screens for individual stars, black holes, and deep-sky objects"
+    ],
+    "sync_to_website": true,
+    "version_code": 1
+  },
+  {
+    "id": "bc4afc06-8b13-4c1b-a6b7-f2b91a8ef9ed",
+    "name": "SUPA STUDIO by SHV",
+    "tagline": "The most capable mobile admin console for Supabase — your entire backend, in your pocket!",
+    "description": "\nSupa Studio by SHV brings the full power of the Supabase dashboard to your phone. Manage tables, run raw SQL, moderate users, invoke edge functions, and monitor logs in real time — no laptop required. Every credential is protected behind a PIN or biometric lock, and the interface is built for genuine day-to-day database administration on the go, not just a read-only viewer. If you run a Supabase backend and need to make a fix, check a log, or ban a user while you\u0027re away from your desk, Supa Studio is built exactly for that.",
+    "version": "2.0",
+    "package_name": "com.shvertex.supaadmin",
+    "category": "TOOLS",
+    "apk_url": "https://www.dropbox.com/scl/fi/q2g0ds88oaa6k30axugta/supa-studio-v2.apk?rlkey\u003difxqis9y07ssge0dt1n5fkdws\u0026st\u003d68owx0if\u0026dl\u003d1",
+    "icon_url": "https://www.dropbox.com/scl/fi/ojr11w9py3grdp1q9p009/Colorful-Cute-Icons-Icon-Set_20260525_033253_0000.png?rlkey\u003dx5sn7g1pnsky3dofxlg8hma7r\u0026st\u003d0h3yffih\u0026dl\u003d1",
+    "download_count": 0,
+    "is_published": true,
+    "requires_license": true,
+    "created_at": "2026-07-21 08:42:46.393025+00",
+    "updated_at": "2026-07-21 08:42:46.393025+00",
+    "screenshots": "",
+    "is_featured": true,
+    "has_update": false,
+    "is_under_maintenance": false,
+    "pricing": [
+      {
+        "tier": "Demo",
+        "type": "free",
+        "price": "FREE TIER"
+      },
+      {
+        "tier": "Pro",
+        "type": "one_time",
+        "price": "29.99"
+      },
+      {
+        "tier": "Pro+",
+        "type": "one_time",
+        "price": "39.99"
+      }
+    ],
+    "sort_order": 1,
+    "features": [
+      "- PIN \u0026 biometric lock protecting all saved Supabase credentials/API keys",
+      "- **Tables:** browse, preview, insert, update, delete rows, export to CSV, open in SQL",
+      "- **SQL Editor:** run raw queries, view results, save \u0026 reuse query snippets",
+      "- **Auth management:** view users, ban/unban, reset password, delete users",
+      "- **Storage** browser",
+      "- **Edge Functions:** view, invoke, and check function versions",
+      "- **Logs:** unified log viewer across Auth, Storage, Realtime, Edge Functions, and Cron",
+      "- **Realtime:** live event listener/stream viewer",
+      "- **Secrets** manager for environment variables",
+      "- **Cron Jobs** creation and management",
+      "- RLS policy viewer and database migration/schema inspector",
+      "- Multi-project / multi-connection support with saved connections",
+      "- In-app web dashboard view for the full Supabase console",
+      "- Dark mode, compact mode, and quick data-cache clearing",
+      "- Tiered feature access (license-gated Pro features)"
+    ],
+    "sync_to_website": true,
+    "version_code": 2
+  },
+  {
+    "id": "693eb997-dfda-4b11-8bbe-b83d8c68319a",
+    "name": "VANTAGE by SHV",
+    "tagline": "The complete probability and bankroll toolkit for every casino game and sports bet!",
+    "description": "Vantage by SHV is a all-in-one mathematics lab for anyone who plays the odds. Instead of guessing, calculate. Vantage packs genuine simulation engines — Monte Carlo, genetic-algorithm \"Evolution\" solvers, and precise probability math — into a sleek, dark-themed toolkit that runs entirely on your device. Whether you\u0027re stress-testing a dice strategy across a million virtual rounds, sizing a sports parlay with real edge calculations, or protecting your bankroll with a Kelly Criterion calculator, Vantage turns raw numbers into confident decisions. Session history, win-rate tracking, and a live profit tracker keep every session accountable.",
+    "version": "1.0",
+    "package_name": "com.shvertex.casinotoolspro",
+    "category": "ENTERTAINMENT",
+    "apk_url": "",
+    "icon_url": "https://www.dropbox.com/scl/fi/yr58nm63fvb0wugfkwpnu/Colorful-Cute-Icons-Icon-Set_20260610_201731_0000.png?rlkey\u003d4hwatlhq3dd6kl4vbcrsj7rfd\u0026st\u003dd2obflz5\u0026dl\u003d1",
+    "download_count": 0,
+    "is_published": true,
+    "requires_license": true,
+    "created_at": "2026-07-21 08:35:56.949868+00",
+    "updated_at": "2026-07-21 08:35:56.949868+00",
+    "screenshots": "",
+    "is_featured": false,
+    "has_update": false,
+    "is_under_maintenance": false,
+    "pricing": [
+      {
+        "tier": "Demo",
+        "type": "free",
+        "price": "FREE TIER"
+      },
+      {
+        "tier": "Pro",
+        "type": "one_time",
+        "price": "29.99"
+      },
+      {
+        "tier": "Pro+",
+        "type": "one_time",
+        "price": "49.99"
+      }
+    ],
+    "sort_order": 2,
+    "features": [
+      "- **Core Tools:** Strategies Library, Dice Simulator, Dice/Limbo Calculator, Monte Carlo Simulator, Dice Optimizer, Auto Sequence Generator",
+      "- **Evolution Lab:** Strategy Forge (genetic-algorithm strategy builder), Stress Test, Dice Evolution, Limbo Evolution, Keno Evolution, Mines Evolution",
+      "- **Analytics Suite:** Keno Monte Carlo, Mines Probability-Path Analytics, Blackjack Hub (dealer/player statistical engine)",
+      "- **Sports Betting Lab:** Sports Betting calculator, Kelly Criterion Calculator, Parlay/Compounded-Risk Analyzer, Value Bet finder, Arbitrage Calculator",
+      "- **Utilities:** Bankroll Survival Lab, Compound Growth calculator, Pattern Master, Crypto Converter, Session History log with win/loss stats",
+      "- Live profit tracker with entry logging, win-rate %, wins/losses stat chips",
+      "- Built entirely on-device — fast, private, offline-capable math engines"
+    ],
+    "sync_to_website": true,
+    "version_code": 1
+  },
+  {
+    "id": "6209f15a-1f60-40f9-8cfa-b9e01aca9c42",
+    "name": "SHV OMNI-CORTEX",
+    "tagline": "Your device\u0027s cybersecurity command center — defend, monitor, and recon in one app!",
+    "description": "SHV Omni-Cortex is a comprehensive mobile security suite built for people who want to actually understand what\u0027s happening on their device and network — not just get a vague \"you\u0027re safe\" badge. At its core sits the AEGIS Score, a live device-posture rating that reflects real risk on your phone. From there, dive into deep defensive modules like breach monitoring (powered by Have I Been Pwned), app permission intelligence, and a built-in Privacy Shield VPN, or flip to the offensive side with genuine recon tools — HTTP recon, port scanning, DNS intelligence, and APK analysis — for auditing systems you own. Pro+ unlocks Shizuku Mode, giving you root-adjacent, system-level control: a per-app firewall, deep permission management, and live network monitoring, all without needing to root your device.",
+    "version": "1.0",
+    "package_name": "com.example.omnicortex",
+    "category": "SECURITY",
+    "apk_url": "https://www.dropbox.com/scl/fi/ltqhktfhbkkcmzfish213/omni-cortex-v1.apk?rlkey\u003d47i089agyrb8e74aizjlc5quo\u0026st\u003dc99dvc14\u0026dl\u003d1",
+    "icon_url": "https://www.dropbox.com/scl/fi/fd0w2xcbobnjr4qpj4sdn/Colorful-Cute-Icons-Icon-Set_20260709_054650_0000.png?rlkey\u003dmgr47owiewq310nvavqpv7z0q\u0026st\u003d73dqj60u\u0026dl\u003d1",
+    "download_count": 0,
+    "is_published": true,
+    "requires_license": true,
+    "created_at": "2026-07-14 02:48:49.448737+00",
+    "updated_at": "2026-07-14 02:48:49.448737+00",
+    "screenshots": "https://www.dropbox.com/scl/fi/ajo11wvslpc5jief2p3ur/Screenshot_20260714-081016.png?rlkey\u003dcnwkrj9nsi6vjuxas8uw00mku\u0026st\u003dl05lsyef\u0026raw\u003d1, https://www.dropbox.com/scl/fi/dezqtmpmub0i6q7fd62dt/Screenshot_20260714-081024.png?rlkey\u003dnyn1gqxf4m4rtc2k84zixncrf\u0026st\u003dlb0mutdu\u0026raw\u003d1, https://www.dropbox.com/scl/fi/y4ewbfqjxc4h5xw0jr2gy/Screenshot_20260714-081028.png?rlkey\u003du78wu569cs5p0jsorxvj16r7d\u0026st\u003daixdecx4\u0026raw\u003d1, https://www.dropbox.com/scl/fi/wn4xpcex0u6f06joa1oyp/Screenshot_20260714-081045.png?rlkey\u003dq82rh9cfsmg96qccv24ohqc1c\u0026st\u003dmzktk7bv\u0026raw\u003d1, https://www.dropbox.com/scl/fi/q15tfokppyejgmct987er/Screenshot_20260714-081051.png?rlkey\u003d6vxjuekajluimxx6t2izojive\u0026st\u003daqwicgdp\u0026raw\u003d1, https://www.dropbox.com/scl/fi/r4s2kc8s7r7heglbmm11a/Screenshot_20260714-081101.png?rlkey\u003dj7i1uviy4y3amgk0dwpqmf7al\u0026st\u003d6k3fkl7r\u0026raw\u003d1, https://www.dropbox.com/scl/fi/um3v9aac3ls3gg4dho9bo/Screenshot_20260714-081108.png?rlkey\u003d73axe1ryekikvl2av1gxiqb1i\u0026st\u003dh3dv9bnf\u0026raw\u003d1, https://www.dropbox.com/scl/fi/n9e9c1q6vku62wj9oq526/Screenshot_20260714-081119.png?rlkey\u003dawx7ew8rnlv7ekspvcm556p8p\u0026st\u003dunqc2hpx\u0026raw\u003d1, https://www.dropbox.com/scl/fi/x3rc86s7aaimbz7vig9q4/Screenshot_20260714-081146.png?rlkey\u003d762zngbni5f1cdyeyau8tzh4l\u0026st\u003duuvc8y7v\u0026raw\u003d1",
+    "is_featured": true,
+    "has_update": false,
+    "is_under_maintenance": false,
+    "pricing": [
+      {
+        "tier": "Demo",
+        "type": "one_time",
+        "price": "Free Tier"
+      },
+      {
+        "tier": "Pro",
+        "type": "one_time",
+        "price": "14.99"
+      },
+      {
+        "tier": "Pro+",
+        "type": "one_time",
+        "price": "19.99"
+      }
+    ],
+    "sort_order": 3,
+    "features": [
+      "- **AEGIS Score** — live, at-a-glance device security rating with scan history",
+      "- **Defensive Tools:**",
+      "- Device Posture scanner",
+      "- App Permission Intelligence",
+      "- Network Intel",
+      "- Breach Monitor (HaveIBeenPwned integration)",
+      "- Comms Validator (TLS/connection inspection)",
+      "- Privacy Shield (built-in VPN engine with DNS-over-HTTPS)",
+      "- **Recon \u0026 Ethical Hacking Tools:**",
+      "- HTTP Recon",
+      "- Port Scanner",
+      "- DNS Intelligence",
+      "- APK Analyser",
+      "- **Shizuku Mode (Pro+):** per-app Firewall, deep Permissions manager, real-time Network Monitor — system-level control without root",
+      "- Tiered licensing (Free / Pro / Pro+) with in-app license management",
+      "- Background breach-monitoring worker for continuous protection",
+      "- On-device analysis — your data stays local"
+    ],
+    "sync_to_website": true,
+    "version_code": 1
+  },
+  {
+    "id": "20adbaa0-ff31-472f-8015-55277428c627",
+    "name": "SHV DOWNLOADER",
+    "tagline": "Paste a link, pick a quality, done — video and audio downloads from all your favorite platforms!",
+    "description": "SHV Downloader is a fast, no-nonsense downloader for video and audio content across YouTube, TikTok, Instagram, Facebook, and Twitter/X — plus general-purpose direct-link support for everything else. Just paste or share a link in and SnapLoader auto-detects the platform, fetches every available quality and format (including audio-only and subtitles), and hands you a real download queue with pause, resume, and retry — not just a one-shot save. A built-in ad-blocking web browser lets you visit your favorite downloader sites without the popup clutter, and a floating overlay window keeps your download progress visible while you keep using your phone for anything else.",
+    "version": "1.1.0",
+    "package_name": "com.snaploader.app",
+    "category": "MEDIA",
+    "apk_url": "",
+    "icon_url": "https://www.dropbox.com/scl/fi/hvy3el0kndpyy1r5idby9/Colorful-Cute-Icons-Icon-Set_20260626_123717_0000.png?rlkey\u003duhmdmip90bukk0pmi2b7hfqi7\u0026st\u003d3ychhtjq\u0026dl\u003d1",
+    "download_count": 0,
+    "is_published": true,
+    "requires_license": true,
+    "created_at": "2026-07-14 07:43:47.162157+00",
+    "updated_at": "2026-07-14 07:43:47.162157+00",
+    "screenshots": "https://www.dropbox.com/scl/fi/ra2ck3kmygha1do1c6jz5/Screenshot_20260714-130626.png?rlkey\u003d0d2rn1yi8t1jbtww2sp35c8z5\u0026st\u003dqwjkvwfp\u0026raw\u003d1, https://www.dropbox.com/scl/fi/lbghvf48441ir6lqf4zby/Screenshot_20260714-130630.png?rlkey\u003d63drt8jwjarx9m4nn8oqn61xq\u0026st\u003ddonwhpi4\u0026raw\u003d1, https://www.dropbox.com/scl/fi/r8gkzct3m1gaw4nrbfsmk/Screenshot_20260714-130638.png?rlkey\u003dcwxm7kmywytiugsbsn63teee5\u0026st\u003dkdf0hdl0\u0026raw\u003d1, https://www.dropbox.com/scl/fi/cmljbw5m1j0nykq9utmfq/Screenshot_20260714-130643.png?rlkey\u003dkdros0nvxctu63p4gx4d88e8e\u0026st\u003dhzfxg2yr\u0026raw\u003d1",
+    "is_featured": false,
+    "has_update": false,
+    "is_under_maintenance": true,
+    "pricing": [
+      {
+        "tier": "Demo",
+        "type": "one_time",
+        "price": "Free Tier"
+      },
+      {
+        "tier": "Pro",
+        "type": "one_time",
+        "price": "5.99"
+      },
+      {
+        "tier": "Pro+",
+        "type": "one_time",
+        "price": "9.99"
+      }
+    ],
+    "sort_order": 4,
+    "features": [
+      "- **Multi-platform support:** YouTube, TikTok, Instagram, Facebook, Twitter/X, plus general direct-link downloads",
+      "- Auto platform detection from pasted or shared URLs, with clipboard-paste detection banner",
+      "- Share-to-download — send links straight from any app via the share sheet",
+      "- Quality/format picker pulling every available resolution and format (yt-dlp powered), including audio-only extraction and subtitle downloads",
+      "- Full download queue management: pause, resume, retry, reorder, cancel, and remove",
+      "- Resume support for interrupted downloads with progress %, live speed, and ETA",
+      "- **Batch/multi-URL downloading** (Pro and above)",
+      "- **Web Tools:** built-in ad-blocking in-app browser for downloader sites, with a saved sites list and custom site support (Pro+)",
+      "- **Floating window / picture-in-picture** download progress overlay (Pro+)",
+      "- Adjustable max concurrent downloads (1 on Free, up to 5 on Pro+)",
+      "- Custom filename templates with token support",
+      "- Accent color customization (Pro and above)",
+      "- Storage usage stats and one-tap \"clear all\" for the downloads list",
+      "- Tiered licensing (Free / Pro / Pro+) with granular feature gating rather than locked screens"
+    ],
+    "sync_to_website": true,
+    "version_code": 2
+  },
+  {
+    "id": "8b4d56db-d257-41d8-b1ba-4138134f81d0",
+    "name": "SIMPLI-BUDGET by SHV",
+    "tagline": "Every dollar, every debt, every goal — one clear picture of your money!",
+    "description": "Simpli Budget - SHV is a complete personal finance command center that goes far beyond simple expense tracking. Manage multiple accounts with transfers between them, plan and track category budgets, chip away at debts, build savings goals and sinking funds, and never miss a bill again — all wrapped in a clean, AMOLED-black interface with real-time spending breakdowns and net worth tracking. Whether you\u0027re managing one account or juggling several, with one currency or many, Simpli Budget gives you the full financial picture on a single screen.",
+    "version": "1.0",
+    "package_name": "com.shvertex.simplibudgetrevamped",
+    "category": "FINANCE",
+    "apk_url": "https://www.dropbox.com/scl/fi/z8py5qxndfcxojicptizu/SimpliBudgetSHV-v1.0-debug.apk?rlkey\u003dwa0xmxrtenpsjxacmki468yse\u0026st\u003du18xnsg9\u0026dl\u003d1",
+    "icon_url": "https://www.dropbox.com/scl/fi/0nbu2o3h32gvnysmyl9z6/Colorful-Cute-Icons-Icon-Set_20260627_022313_0000.png?rlkey\u003d8fundmk1i1464gxmk3psn2swb\u0026st\u003dhwhy0148\u0026dl\u003d1",
+    "download_count": 0,
+    "is_published": true,
+    "requires_license": true,
+    "created_at": "2026-07-14 02:35:38.100676+00",
+    "updated_at": "2026-07-14 02:35:38.100676+00",
+    "screenshots": "https://www.dropbox.com/scl/fi/ovesw3xpjck9eqt5rzpw3/Screenshot_20260606-222501.png?rlkey\u003dfg7mlz5nrrrw2s5usnyrtuo6j\u0026st\u003dwjpx7eaj\u0026raw\u003d1, https://www.dropbox.com/scl/fi/kqpb8ha7b4g2aur1ppg4g/Screenshot_20260606-222505.png?rlkey\u003d3d9jxgqyz3qktintvhapqrjn4\u0026st\u003dp9m6q9uh\u0026raw\u003d1, https://www.dropbox.com/scl/fi/bffz0hm7zd2jfmhkl8n0p/Screenshot_20260606-222510.png?rlkey\u003d6yw0fmqfe13ryix99rd4cg1gz\u0026st\u003dzqrlxdla\u0026raw\u003d1, https://www.dropbox.com/scl/fi/m0o7ylszaw9sttrc3ntwh/Screenshot_20260606-222514.png?rlkey\u003d95xv9k3n29tml6eozjnq39pad\u0026st\u003d7bkcsomj\u0026raw\u003d1, https://www.dropbox.com/scl/fi/ehs2oufst7comndzbrb33/Screenshot_20260606-222518.png?rlkey\u003dbwo66gc9jh39lgbybbke2xxtz\u0026st\u003dyn6zikl9\u0026raw\u003d1",
+    "is_featured": false,
+    "has_update": false,
+    "is_under_maintenance": false,
+    "pricing": [
+      {
+        "tier": "Demo",
+        "type": "one_time",
+        "price": "24H Trial Demo with SHVERTEX Account"
+      },
+      {
+        "tier": "Pro",
+        "type": "one_time",
+        "price": "9.99"
+      }
+    ],
+    "sort_order": 5,
+    "features": [
+      "- Multiple Accounts with inter-account transfers",
+      "- Transaction logging with income entries",
+      "- Category-based Budgeting with visual spending breakdowns",
+      "- Bills tracker with due-date management",
+      "- Debt tracker",
+      "- Savings Goals and Sinking Funds",
+      "- Recurring Transactions support",
+      "- Net Worth tracking over time",
+      "- Paycheck tracking",
+      "- Reports screen with spending analytics and budget-health visualization",
+      "- Multi-currency support with custom currency symbol",
+      "- Guided onboarding flow",
+      "- Full custom light/dark AMOLED theming"
+    ],
+    "sync_to_website": true,
+    "version_code": 1
+  },
+  {
+    "id": "8d8f6c73-472a-4c84-bac8-5471463f76f1",
+    "name": "UNIVERSAL CONVERTOR",
+    "tagline": "Every unit. Every conversion. One app — even floating over whatever you\u0027re doing!",
+    "description": "Universal Converter is the last conversion app you\u0027ll ever need to install. With over 30 categories covering everything from everyday units like length and weight to specialist ones like radioactivity, viscosity, and magnetic flux, plus live currency exchange rates, it handles virtually any conversion you\u0027ll ever run into. The standout feature is its floating overlay calculator — a draggable mini-converter that stays on screen over any other app, so you never have to switch away from what you\u0027re doing just to check a conversion.",
+    "version": "2.0",
+    "package_name": "com.shvertex.universalconv",
+    "category": "TOOLS",
+    "apk_url": "https://www.dropbox.com/scl/fi/o0ox80em5thhfne3z2bzd/uni-c-v2.apk?rlkey\u003d0bawwhvncwakd2qo0c0lyj9l5\u0026st\u003drr98px1z\u0026dl\u003d1",
+    "icon_url": "https://www.dropbox.com/scl/fi/gmluzscj6fx74bvv8x4r8/Colorful-Cute-Icons-Icon-Set_20260612_025530_0000.png?rlkey\u003djboswrso2jo6sf9dqp1sm2hy6\u0026st\u003dd6aklwbf\u0026dl\u003d1",
+    "download_count": 0,
+    "is_published": true,
+    "requires_license": true,
+    "created_at": "2026-07-14 02:27:19.851274+00",
+    "updated_at": "2026-07-14 02:27:19.851274+00",
+    "screenshots": "https://www.dropbox.com/scl/fi/isrijftm9cv5oyltwb9wj/Screenshot_20260627-025532.png?rlkey\u003d36supu1w7upv12lsn7wvrxtu2\u0026st\u003d07gei0ju\u0026raw\u003d1, https://www.dropbox.com/scl/fi/s9ctc1arogg5fpzt3w4ja/Screenshot_20260627-025537.png?rlkey\u003d11eeljieec7kq9xcnqvbl8bxs\u0026st\u003dy4cn0cci\u0026raw\u003d1, https://www.dropbox.com/scl/fi/wh2z2yjg3zotiu61gvqeg/Screenshot_20260627-025541.png?rlkey\u003dyto9epqamd9buttbwb1niioht\u0026st\u003dymxsu72f\u0026raw\u003d1, https://www.dropbox.com/scl/fi/31vmf51sq9t6yfz1s4vdd/Screenshot_20260627-025546.png?rlkey\u003do2va1q0mi9ydmbyb8077bttc1\u0026st\u003dk74v6br1\u0026raw\u003d1, https://www.dropbox.com/scl/fi/8pej9iy1z6tuuriiyaq5i/Screenshot_20260627-025555.png?rlkey\u003d2qx4bc38p8xdllg5tomghq1l7\u0026st\u003dbfocsa3u\u0026raw\u003d1",
+    "is_featured": false,
+    "has_update": false,
+    "is_under_maintenance": false,
+    "pricing": [
+      {
+        "tier": "Demo",
+        "type": "one_time",
+        "price": "24H Trial Demo with SHVERTEX Account"
+      },
+      {
+        "tier": "Pro",
+        "type": "one_time",
+        "price": "4.99"
+      }
+    ],
+    "sort_order": 6,
+    "features": [
+      "- 30+ conversion categories, including: Length, Weight, Volume, Area, Time, Speed, Pressure, Energy, Power, Torque, Acceleration, Force, Density, Flow Rate, Viscosity, Angle, Frequency, Magnetic Flux, Data Storage, Typography, Illuminance, Luminance, Radioactivity, Radiation Dose, Concentration, Cooking Measurements, Temperature, Fuel Economy, Sound Level, and Electrical units",
+      "- Live currency converter with real-time exchange rates (with offline fallback)",
+      "- Paper size, timezone, shoe size, and ring size reference converters",
+      "- **Floating overlay calculator** — draggable, always-on-top mini converter usable over any other app",
+      "- Clean, fast unit-conversion UI with instant multi-unit results",
+      "- Light/dark theming with persistent settings"
+    ],
+    "sync_to_website": true,
+    "version_code": 2
+  }
+]
